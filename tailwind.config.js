@@ -45,6 +45,13 @@ module.exports = {
                 'lightBlue'  : '#0F172A'
             },
 
+            borderColors: {
+                'lightGreen' : '#6BD4A5',
+                'darkBlue'   : '#0B1224',
+                'Grey'       : '#9798A7',
+                'lightBlue'  : '#0F172A'
+            },
+
             padding: {
                 '130px' : '130px',
                 '60px' : '60px',

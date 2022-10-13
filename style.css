@@ -9,3 +9,7 @@ License: MIT
 License URI: https://github.com/jeffreyvr/tailpress/blob/master/LICENSE
 Text Domain: tailpress
 */
+
+.owl-stage-outer {
+    padding-top: 60px;
+}
