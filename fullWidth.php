@@ -39,7 +39,7 @@
 
         <div class="parent flex">
             
-            <div class="col-1">
+            <div class="col-1 border-8 max-w-[590px] mr-4">
                 <img src="wp-content/uploads/2022/10/about-image.jpg" alt="">
             </div>
 
@@ -63,24 +63,29 @@
     </div>
 </section>
 
-<section class="slider-sec">
+<section class="slider-sec bg-darkBlue">
     <div class="max-w-7xl mx-auto">
         <div class="owl-carousel owl-theme">
+        <!-- single slide -->
+
         <div class="item">
             <h3>David Chester</h3>
             <p>Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars">
-                    <span><i class="fa-solid fa-star"></i></span>
-                    <span><i class="fa-solid fa-star"></i></span>
-                    <span><i class="fa-solid fa-star"></i></span>
-                    <span><i class="fa-solid fa-star"></i></span>
-                    <span><i class="fa-solid fa-star"></i></span>
+                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
                 </div>
                 <p>Working with Bieber is very good experience for me. He’s a good person.
                      If I need developer in future, I’ll definately hire him.</p>
             </div>
         </div>
+      <!-- single slide end -->
+      
+
     </div>
     </div>
 </section>
