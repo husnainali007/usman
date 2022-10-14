@@ -13,3 +13,6 @@ Text Domain: tailpress
 .owl-stage-outer {
     padding-top: 60px;
 }
+.owl-carousel .owl-theme .owl-loaded .owl-drag {
+    padding-top: 80px;
+}

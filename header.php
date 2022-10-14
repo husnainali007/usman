@@ -20,7 +20,7 @@
 	<header class="bg-[#0F172A]">
 
 		<div class="mx-auto container">
-			<div class="lg:flex lg:justify-between lg:items-center py-6">
+			<div class="lg:flex lg:justify-between lg:items-center py-4">
 				<div class="flex justify-between items-center">
 					<div>
 						<?php if ( has_custom_logo() ) { ?>

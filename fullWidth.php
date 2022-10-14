@@ -22,11 +22,11 @@
         </div>
 
         <div class="social-icon text-center mt-[40px]">
-            <span class="text-white h-[40px] w-[40px] inline-flex items-center justify-center border hover:bg-green-400 mr-5"><i class="fa-brands fa-facebook-f"></i></span>
-            <span class="text-white h-[40px] w-[40px] inline-flex items-center justify-center border hover:bg-green-400 mr-5"><i class="fa-brands fa-twitter"></i></span>
-            <span class="text-white h-[40px] w-[40px] inline-flex items-center justify-center border hover:bg-green-400 mr-5"><i class="fa-brands fa-github"></i></i></span>
-            <span class="text-white h-[40px] w-[40px] inline-flex items-center justify-center border hover:bg-green-400 mr-5"><i class="fa-brands fa-linkedin"></i></i></span>
-            <span class="text-white h-[40px] w-[40px] inline-flex items-center justify-center border hover:bg-green-400"><i class="fa-brands fa-dribbble"></i></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400 mr-5"><i class="fa-brands fa-facebook-f"></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400 mr-5"><i class="fa-brands fa-twitter"></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400 mr-5"><i class="fa-brands fa-github"></i></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400 mr-5"><i class="fa-brands fa-linkedin"></i></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400"><i class="fa-brands fa-dribbble"></i></i></span>
         </div>
         <div>
             <span class="text-white"><i class="fal fa-angle-down"></i></span>
@@ -64,7 +64,7 @@
                 </ul>
 
                 <div class="mt-[40px] ml-[20px]">
-                    <span class="px-[30px] py-[10px] border-[1px] rounded-full border-[#6BD4A5]"><a href="#">Download Rusame</a></span>
+                    <span class="h-[47px] w-[188px] border inline-flex items-center justify-center rounded-lg border-[#6BD4A5] hover:bg-green-400"><a href="#">Download Rusame</a></span>
                 </div>
                 
             </div>
@@ -146,7 +146,8 @@
     
 <section class="slider-sec bg-[#162033] py-[128px]">
     <div class="max-w-7xl mx-auto">
-        <div class="owl-carousel owl-theme">
+    <h2 class="text-[46px] text-center font-bold text-white mt-[10px]">Client Reviwes<span></h2>
+        <div class="owl-carousel owl-one">
 
         <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
             <div class="w-[20%]">
@@ -218,7 +219,7 @@
                     <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
                     <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
                     <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                </div>
+                </div>/
                 <span class="text-[13px] mt-[5px] text-white font-medium">Working with Bieber is very good experience for me. He’s a good person.
                      If I need developer in future, I’ll definately hire him.</span>
             </div>
@@ -247,7 +248,53 @@
     </div>
 </section>
 
+<section class="blog-sec bg-darkBlue py-32">
+    <div class="container maxw-7xl mx-auto">
+        <div class="blog-content">
+            <h2 class="text-[46px] text-center font-bold text-white mt-[10px]">Latest Blog<span></h2>
+            <div class="owl-carousel owl-two">
 
+                <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                </div>
+                
+                <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                </div>
+                
+                <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                </div>
+                
+                <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                </div>
+                
+                <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                </div>
+                
+                <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                </div>
+                
+            </div>
+            
+        </div>
+    </div>
+</section>
 
 
 
