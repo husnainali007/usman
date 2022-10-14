@@ -180,6 +180,14 @@
   margin-bottom: 3rem
 }
 
+.mr-3 {
+  margin-right: 0.75rem
+}
+
+.mr-2 {
+  margin-right: 0.5rem
+}
+
 .block {
   display: block
 }
@@ -1668,6 +1676,11 @@
   color: rgb(59 130 246 / var(--tw-text-opacity))
 }
 
+.text-lightGreen {
+  --tw-text-opacity: 1;
+  color: rgb(107 212 165 / var(--tw-text-opacity))
+}
+
 .underline {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline
@@ -1756,6 +1769,11 @@ body {
 .hover\:bg-green-400:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(74 222 128 / var(--tw-bg-opacity))
+}
+
+.hover\:bg-lightGreen:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(107 212 165 / var(--tw-bg-opacity))
 }
 
 .hover\:text-\[\#6BD4A5\]:hover {

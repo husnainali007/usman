@@ -14,16 +14,16 @@
 			
 			<div class="box-1">
 				<div class="social-icon text-left ml-4xl">
-					<span class="h-[40px] w-[40px] text-white mr-5  inline-flex items-center justify-center border border-[#282F40] rounded-lg"><i class="fa-brands fa-facebook-f"></i></span>
-					<span class="h-[40px] w-[40px] text-white mr-5  inline-flex items-center justify-center border border-[#282F40] rounded-lg"><i class="fa-brands fa-twitter"></i></span>
-					<span class="h-[40px] w-[40px] text-white mr-5  inline-flex items-center justify-center border border-[#282F40] rounded-lg"><i class="fa-brands fa-github"></i></i></span>
-					<span class="h-[40px] w-[40px] text-white mr-5  inline-flex items-center justify-center border border-[#282F40] rounded-lg"><i class="fa-brands fa-linkedin"></i></i></span>
-					<span class="h-[40px] w-[40px] text-white mr  inline-flex items-center justify-center border border-[#282F40] rounded-lg"><i class="fa-brands fa-dribbble"></i></i></span>
+					<span class="h-[40px] w-[40px] text-white mr-2  inline-flex items-center justify-center border border-[#282F40] rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-facebook-f"></i></span>
+					<span class="h-[40px] w-[40px] text-white mr-2  inline-flex items-center justify-center border border-[#282F40] rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-twitter"></i></span>
+					<span class="h-[40px] w-[40px] text-white mr-2  inline-flex items-center justify-center border border-[#282F40] rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-github"></i></i></span>
+					<span class="h-[40px] w-[40px] text-white mr-2  inline-flex items-center justify-center border border-[#282F40] rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-linkedin"></i></i></span>
+					<span class="h-[40px] w-[40px] text-white mr    inline-flex items-center justify-center border border-[#282F40] rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-dribbble"></i></i></span>
 				</div>
 			</div>
 
-			<div class="box-2 text-right">
-				<p class="text-[15px] text-Grey font-normal">© 2022, All right reserved <span class="text-">NuclearThemes</span></p>
+			<div class="box-2">
+				<p class="text-[15px] text-Grey font-normal text-right">© 2022, All right reserved <span class="text-">NuclearThemes</span></p>
 			</div>
 
 		</div>

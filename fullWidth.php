@@ -22,14 +22,13 @@
         </div>
 
         <div class="social-icon text-center mt-[40px]">
-            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400 mr-5"><i class="fa-brands fa-facebook-f"></i></span>
-            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400 mr-5"><i class="fa-brands fa-twitter"></i></span>
-            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400 mr-5"><i class="fa-brands fa-github"></i></i></span>
-            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400 mr-5"><i class="fa-brands fa-linkedin"></i></i></span>
-            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-green-400"><i class="fa-brands fa-dribbble"></i></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen mr-5"><i class="fa-brands fa-facebook-f"></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen mr-5"><i class="fa-brands fa-twitter"></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen mr-5"><i class="fa-brands fa-github"></i></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen mr-5"><i class="fa-brands fa-linkedin"></i></i></span>
+            <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-dribbble"></i></i></span>
         </div>
         <div>
-            <span class="text-white"><i class="fal fa-angle-down"></i></span>
             <span><a class="text-[15px] text-white font-medium text-center block mt-6" href="#about">Scrool Down</a></span>
         </div>
     </div>
@@ -64,7 +63,7 @@
                 </ul>
 
                 <div class="mt-[40px] ml-[20px]">
-                    <span class="h-[47px] w-[188px] border inline-flex items-center justify-center rounded-lg border-[#6BD4A5] hover:bg-green-400"><a href="#">Download Rusame</a></span>
+                    <span class="h-[47px] w-[188px] border inline-flex items-center justify-center rounded-lg border-[#6BD4A5] hover:bg-lightGreen"><a href="#">Download Rusame</a></span>
                 </div>
                 
             </div>
@@ -122,6 +121,7 @@
         <div class="services-content flex">
 
             <div class="box-1 bg-lightBlue py-[40px] px-[40px] border-[1px] rounded-lg border-[#6BD4A5]">
+                <span class="text-lightGreen"><i class="far fa-leaf"></i></span>
                 <h4 class="text-[25px] text-white font-semibold">UX/UI Design</h4>
                 <p class="text-[15px] text-Grey font-medium max-w-[300px] mt-[10px]">Working with Bieber is very good experience for me. He’s a good person.
                         If I need developer in future, I’ll definately hire him.</p>
