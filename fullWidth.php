@@ -54,13 +54,13 @@
                 <h3 class="text-2xl font-bold text-white ml-[10px] ">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h3>
 
                 <ul class="mt-[30px] ml-[40px]">
-                    <li class="text-[18px] text-Grey font-medium">First Name <span class="text-[15px] ml-[20px] text-Grey font-medium ">: Usman</span></li>
-                    <li class="text-[18px] text-Grey font-medium">Last Name  <span class="text-[15px] ml-[21px] text-Grey font-medium">: Bieber</span></li>
-                    <li class="text-[18px] text-Grey font-medium">Age        <span class="text-[15px] ml-[75px] text-Grey font-medium">: 27 years</span></li>
-                    <li class="text-[18px] text-Grey font-medium">Nationality<span class="text-[15px] ml-[19px] text-Grey font-medium">: American</span></li>
-                    <li class="text-[18px] text-Grey font-medium">Languages  <span class="text-[15px] ml-[20px] text-Grey font-medium">: English, French</span></li>
-                    <li class="text-[18px] text-Grey font-medium">Address    <span class="text-[15px] ml-[43px] text-Grey font-medium">: 121 King Street, Melbourne, United States</span></li>
-                    <li class="text-[18px] text-Grey font-medium">Freelance  <span class="text-[15px] ml-[30px] text-Grey font-medium">: Joseph</span></li>
+                    <li class="text-lg text-Grey font-medium">First Name <span class="text-[15px] ml-[20px] text-Grey font-medium ">: Usman</span></li>
+                    <li class="text-lg text-Grey font-medium">Last Name  <span class="text-[15px] ml-[21px] text-Grey font-medium">: Bieber</span></li>
+                    <li class="text-lg text-Grey font-medium">Age        <span class="text-[15px] ml-[75px] text-Grey font-medium">: 27 years</span></li>
+                    <li class="text-lg text-Grey font-medium">Nationality<span class="text-[15px] ml-[19px] text-Grey font-medium">: American</span></li>
+                    <li class="text-lg text-Grey font-medium">Languages  <span class="text-[15px] ml-[20px] text-Grey font-medium">: English, French</span></li>
+                    <li class="text-lg text-Grey font-medium">Address    <span class="text-[15px] ml-[43px] text-Grey font-medium">: 121 King Street, Melbourne, United States</span></li>
+                    <li class="text-lg text-Grey font-medium">Freelance  <span class="text-[15px] ml-[30px] text-Grey font-medium">: Joseph</span></li>
                 </ul>
 
                 <div class="mt-[40px] ml-[20px]">
@@ -74,35 +74,39 @@
 
 <!-- Skills sec -->
 
+<div class="max-w-sm">
+<canvas id="myChart"></canvas>
+</div>
+
 <section class="skills-sec flex bg-[#0F172A] py-[128px]">
     <div class="max-w-7xl mx-auto">
     <h2 class="text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
         <div class="my-skills flex">
             <div>
-                <div class="bg-[#162033] py-[80px] px-[70px] border-[1px] rounded-lg border-[#6BD4A5] ">
-                    <p class="text-[12px] text-Grey font-normal">80%</p>
-                    <h4 class="text-[18px] text-white font-semibold">UX/UI Design</h4>
+                <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] ">
+                    <p class="text-sm text-Grey font-normal">80%</p>
+                    <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
                 </div>
             </div>
 
             <div>
-                <div class="bg-[#162033] py-[80px] px-[70px] border-[1px] rounded-lg border-[#6BD4A5] mx-[30px]">
-                    <p class="text-[12px] text-Grey font-normal">80%</p>
-                    <h4 class="text-[18px] text-white font-semibold">UX/UI Design</h4>
+                <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] mx-[30px]">
+                    <p class="text-sm text-Grey font-normal">80%</p>
+                    <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
                 </div>
             </div>
 
             <div>
-                <div class="bg-[#162033] py-[80px] px-[70px] border-[1px] rounded-lg border-[#6BD4A5] mr-[30px]">
-                    <p class="text-[12px] text-Grey font-normal">80%</p>
-                    <h4 class="text-[18px] text-white font-semibold">UX/UI Design</h4>
+                <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] mr-[30px]">
+                    <p class="text-sm text-Grey font-normal">80%</p>
+                    <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
                 </div>
             </div>
 
             <div>
-                <div class="bg-[#162033] py-[80px] px-[70px] border-[1px] rounded-lg border-[#6BD4A5]">
-                    <p class="text-[12px] text-Grey font-normal">80%</p>
-                    <h4 class="text-[18px] text-white font-semibold">UX/UI Design</h4>
+                <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5]">
+                    <p class="text-sm text-Grey font-normal">80%</p>
+                    <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
                 </div>
             </div>
         </div>

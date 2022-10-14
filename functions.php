@@ -56,6 +56,9 @@ function tailpress_enqueue_scripts() {
 	// Font Awesome
 	wp_enqueue_script('fontAwesome', '//kit.fontawesome.com/cfe36fd365.js', array(), false, false, false );
 
+	// Chart js
+	wp_enqueue_script('myChart', '//cdn.jsdelivr.net/npm/chart.js' );
+
 	// owl JS
 	wp_enqueue_script('jquery');
 	wp_enqueue_script( 'OwlCarouseljs', get_template_directory_uri() . '/owlcarousel/js/owl.carousel.min.js', array('jquery'), true );
