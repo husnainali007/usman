@@ -44,6 +44,30 @@
   }
 }
 
+.absolute {
+  position: absolute
+}
+
+.relative {
+  position: relative
+}
+
+.top-0 {
+  top: 0px
+}
+
+.right-0 {
+  right: 0px
+}
+
+.right-\[25px\] {
+  right: 25px
+}
+
+.top-\[20px\] {
+  top: 20px
+}
+
 .m-8 {
   margin: 2rem
 }
@@ -186,6 +210,10 @@
 
 .mr-2 {
   margin-right: 0.5rem
+}
+
+.ml-2 {
+  margin-left: 0.5rem
 }
 
 .block {
@@ -1781,6 +1809,11 @@ body {
   color: rgb(107 212 165 / var(--tw-text-opacity))
 }
 
+.hover\:text-lightGreen:hover {
+  --tw-text-opacity: 1;
+  color: rgb(107 212 165 / var(--tw-text-opacity))
+}
+
 @media (min-width: 782px) {
   .md\:my-6 {
     margin-top: 1.5rem;
@@ -1797,6 +1830,10 @@ body {
 
   .md\:items-center {
     align-items: center
+  }
+
+  .md\:justify-between {
+    justify-content: space-between
   }
 
   .md\:text-3xl {

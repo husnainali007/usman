@@ -29,7 +29,7 @@
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-dribbble"></i></i></span>
         </div>
         <div>
-            <span><a class="text-[15px] text-white font-medium text-center block mt-6" href="#about">Scrool Down</a></span>
+            <span><a class="text-[15px] text-white font-medium text-center block mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
         </div>
     </div>
 </section>
@@ -72,10 +72,10 @@
 </section>
 
 <!-- Skills sec -->
-
+<!-- 
 <div class="max-w-sm">
 <canvas id="myChart"></canvas>
-</div>
+</div> -->
 
 <section class="skills-sec flex bg-[#0F172A] py-[128px]">
     <div class="max-w-7xl mx-auto">
@@ -254,10 +254,13 @@
             <h2 class="text-[46px] text-center font-bold text-white mt-[10px]">Latest Blog<span></h2>
             <div class="owl-carousel owl-two">
 
-                <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                <div class="relative placeholder:slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                    <div class="c-date absolute top-[20px] right-[25px]">
+                        <span class="text-white">01</span>
+                    </div>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
