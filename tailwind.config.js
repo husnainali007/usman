@@ -28,7 +28,8 @@ module.exports = {
                 'lightGreen' : '#6BD4A5',
                 'darkBlue'   : '#0B1224',
                 'Grey'       : '#9798A7',
-                'lightBlue'  : '#0F172A'
+                'lightBlue'  : '#0F172A',
+                'babyGreen'  : '#203440'
             },
 
             textColor: {
@@ -42,14 +43,16 @@ module.exports = {
                 'lightGreen' : '#6BD4A5',
                 'darkBlue'   : '#0B1224',
                 'Grey'       : '#9798A7',
-                'lightBlue'  : '#0F172A'
+                'lightBlue'  : '#0F172A',
+                'babyGreen'  : '#203440'
             },
 
             borderColors: {
                 'lightGreen' : '#6BD4A5',
                 'darkBlue'   : '#0B1224',
                 'Grey'       : '#9798A7',
-                'lightBlue'  : '#0F172A'
+                'lightBlue'  : '#0F172A',
+                'lightGrey'  : '#e5e7eb'
             },
 
             padding: {
@@ -68,6 +71,10 @@ module.exports = {
             maxWidth: {
                 '1240' : '1240px',
                 '360' : '360px'
+            },
+            fontFamily: {
+                'poppins': ['Poppins', 'sans-serif'],
+                'radioCanada': ['Radio Canada', 'sans-serif'],
             }
         },
 

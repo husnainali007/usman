@@ -12,13 +12,13 @@
 <!-- Hero sec -->
 
 <section class="hero-sec bg-darkBlue py-20">
-    <div class="max-w-7xl mx-auto">
+    <div class="max-w-1240 mx-auto">
         <div class="content">
             <div class="max-w-[200px] mx-auto">
                 <img class="border-[5px] rounded-full border-[#6BD4A5]" src="wp-content/uploads/2022/10/usman-1.jpg" alt="usman1">
             </div>
-            <h1 class="text-[46px] text-center font-bold text-white mt-[10px]">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h1>
-            <p class="text-[18px] text-center font-medium text-[#BFBECB] max-w-[70%] mx-auto mt-[30px]">I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
+            <h1 class="font-radioCanada text-[46px] text-center font-bold text-white mt-[10px]">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h1>
+            <p class="font-poppins text-[18px] text-center font-medium text-[#BFBECB] max-w-[70%] mx-auto mt-[30px]">I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
         </div>
 
         <div class="social-icon text-center mt-[40px]">
@@ -38,9 +38,9 @@
 
 <section id="about" class="about-sec py-32 bg-[#0F172A] text-white">
 
-    <div class="max-w-7xl mx-auto">
+    <div class="max-w-1240 mx-auto">
         
-        <h2 class="text-[46px] text-center font-bold text-white mb-20">About Me</h2>
+        <h2 class="font-radiocanada text-[46px] text-center font-bold text-white mb-20">About Me</h2>
         
         <div class="parent md:flex md:items-center">
             
@@ -48,18 +48,18 @@
                 <img src="wp-content/uploads/2022/10/about-image.jpg" alt="">
             </div>
 
-            <div class="col-2">
+            <div class="col-2 about-inner">
 
-                <h3 class="text-2xl font-bold text-white ml-[10px] ">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h3>
+                <h3 class="font-radioCanada text-2xl font-bold text-white">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h3>
 
-                <ul class="mt-[30px] ml-[40px]">
-                    <li class="text-lg text-Grey font-medium">First Name <span class="text-[15px] ml-[20px] text-Grey font-medium ">: Usman</span></li>
-                    <li class="text-lg text-Grey font-medium">Last Name  <span class="text-[15px] ml-[21px] text-Grey font-medium">: Bieber</span></li>
-                    <li class="text-lg text-Grey font-medium">Age        <span class="text-[15px] ml-[75px] text-Grey font-medium">: 27 years</span></li>
-                    <li class="text-lg text-Grey font-medium">Nationality<span class="text-[15px] ml-[19px] text-Grey font-medium">: American</span></li>
-                    <li class="text-lg text-Grey font-medium">Languages  <span class="text-[15px] ml-[20px] text-Grey font-medium">: English, French</span></li>
-                    <li class="text-lg text-Grey font-medium">Address    <span class="text-[15px] ml-[43px] text-Grey font-medium">: 121 King Street, Melbourne, United States</span></li>
-                    <li class="text-lg text-Grey font-medium">Freelance  <span class="text-[15px] ml-[30px] text-Grey font-medium">: Joseph</span></li>
+                <ul class="mt-[30px]">
+                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">First Name <span class="text-[15px] ml-[20px] text-Grey font-medium ">: Usman</span></li>
+                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Last Name  <span class="text-[15px] ml-[21px] text-Grey font-medium">: Bieber</span></li>
+                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Age        <span class="text-[15px] ml-[75px] text-Grey font-medium">: 27 years</span></li>
+                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Nationality<span class="text-[15px] ml-[19px] text-Grey font-medium">: American</span></li>
+                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Languages  <span class="text-[15px] ml-[20px] text-Grey font-medium">: English, French</span></li>
+                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Address    <span class="text-[15px] ml-[43px] text-Grey font-medium">: 121 King Street, Melbourne, United States</span></li>
+                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Freelance  <span class="text-[15px] ml-[30px] text-Grey font-medium">: Joseph</span></li>
                 </ul>
 
                 <div class="mt-[40px] ml-[20px]">
@@ -78,33 +78,33 @@
 </div> -->
 
 <section class="skills-sec flex bg-[#0F172A] py-[128px]">
-    <div class="max-w-7xl mx-auto">
-    <h2 class="text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
+    <div class="max-w-1240 mx-auto">
+    <h2 class="radiocanada text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
         <div class="my-skills flex">
             <div>
                 <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] ">
-                    <p class="text-sm text-Grey font-normal">80%</p>
+                    <p class="font-poppins text-sm text-Grey font-normal">80%</p>
                     <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
                 </div>
             </div>
 
             <div>
                 <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] mx-[30px]">
-                    <p class="text-sm text-Grey font-normal">80%</p>
+                    <p class="font-poppins text-sm text-Grey font-normal">80%</p>
                     <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
                 </div>
             </div>
 
             <div>
                 <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] mr-[30px]">
-                    <p class="text-sm text-Grey font-normal">80%</p>
+                    <p class="font-poppins text-sm text-Grey font-normal">80%</p>
                     <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
                 </div>
             </div>
 
             <div>
                 <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5]">
-                    <p class="text-sm text-Grey font-normal">80%</p>
+                    <p class="font-poppins text-sm text-Grey font-normal">80%</p>
                     <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
                 </div>
             </div>
@@ -115,26 +115,26 @@
 <!-- services sec  -->
 
 <section class="services-sec flex bg-darkBlue py-[128px]">  
-    <div class="max-w-7xl mx-auto">
-        <h2 class="text-[46px] text-center font-bold text-white mb-10">My Services</h2>
+    <div class="max-w-1240 mx-auto">
+        <h2 class="font-radiocanada text-[46px] text-center font-bold text-white mb-10">My Services</h2>
 
         <div class="services-content flex">
 
             <div class="box-1 bg-lightBlue py-[40px] px-[40px] border-[1px] rounded-lg border-[#6BD4A5]">
                 <span class="text-lightGreen"><i class="far fa-leaf"></i></span>
-                <h4 class="text-[25px] text-white font-semibold">UX/UI Design</h4>
+                <h4 class="font-poppins text-[25px] text-white font-semibold">UX/UI Design</h4>
                 <p class="text-[15px] text-Grey font-medium max-w-[300px] mt-[10px]">Working with Bieber is very good experience for me. He’s a good person.
                         If I need developer in future, I’ll definately hire him.</p>
             </div>
 
             <div class="box-1 bg-lightBlue py-[40px] px-[40px] border-[1px] rounded-lg border-[#6BD4A5] mx-[30px]">
-                <h4 class="text-[25px] text-white font-semibold">UX/UI Design</h4>
+                <h4 class="font-poppins text-[25px] text-white font-semibold">UX/UI Design</h4>
                 <p class="text-[15px] text-Grey font-medium max-w-[300px] mt-[10px]">Working with Bieber is very good experience for me. He’s a good person.
                         If I need developer in future, I’ll definately hire him.</p>
             </div>
 
             <div class="box-1 bg-lightBlue py-[40px] px-[40px] border-[1px] rounded-lg border-[#6BD4A5]">
-                <h4 class="text-[25px] text-white font-semibold">UX/UI Design</h4>
+                <h4 class="font-poppins text-[25px] text-white font-semibold">UX/UI Design</h4>
                 <p class="text-[15px] text-Grey font-medium max-w-[300px] mt-[10px]">Working with Bieber is very good experience for me. He’s a good person.
                         If I need developer in future, I’ll definately hire him.</p>
             </div>
@@ -145,7 +145,7 @@
     <!-- Slider Sec -->
     
 <section class="slider-sec bg-[#162033] py-[128px]">
-    <div class="max-w-7xl mx-auto">
+    <div class="max-w-1240 mx-auto">
     <h2 class="text-[46px] text-center font-bold text-white mt-[10px]">Client Reviwes<span></h2>
         <div class="owl-carousel owl-one">
 
@@ -206,9 +206,9 @@
             </div>
         </div>
 
-        <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
+        <div class="slide-1 border-[1px] rounded-lg border-lightGreen py-[50px] px-[30px]">
             <div class="w-[20%]">
-                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
+                <img class="border-[4px] rounded-full border-lightGreen mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
             <h3 class="text-[22px] font-medium text-white">David Chester</h3>
             <p class="text-[15px] text-Grey mt-[5px]">Client - Envato.com</p>
@@ -225,9 +225,9 @@
             </div>
         </div>
 
-        <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
+        <div class="slide-1 border-[1px] rounded-lg border-lightGreen py-[50px] px-[30px]">
             <div class="w-[20%]">
-                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
+                <img class="border-[4px] rounded-full border-lightGreen mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
             <h3 class="text-[22px] font-medium text-white">David Chester</h3>
             <p class="text-[15px] text-Grey mt-[5px]">Client - Envato.com</p>
@@ -249,15 +249,15 @@
 </section>
 
 <section class="blog-sec bg-darkBlue py-32">
-    <div class="container maxw-7xl mx-auto">
+    <div class="container max-w-1240 mx-auto">
         <div class="blog-content">
             <h2 class="text-[46px] text-center font-bold text-white mt-[10px]">Latest Blog<span></h2>
             <div class="owl-carousel owl-two">
 
                 <div class="relative placeholder:slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
-                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
-                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
                     <div class="c-date absolute top-[20px] right-[25px]">
                         <span class="text-white">01</span>
                     </div>
@@ -265,36 +265,91 @@
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
-                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
-                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
-                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
-                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
-                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
-                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
-                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
-                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
-                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
-                    <p class="text-1xl text-Grey font-medium hover:text-[#6BD4A5]">Trend</p>
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
+                    <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
                 </div>
                 
             </div>
             
+        </div>
+    </div>
+</section>
+
+<section class="bg-darkBlue">
+    <div class="max-w-1240 mx-auto py-32">
+        <div class="form-content flex justify-between items-center">
+            <div class="content-wrapper w-2/5">
+                <div>
+                <h3 class="text-white text-[22px] font-radioCanada font-semibold mb-3">Contact Information</h3>
+                <p class="text-text-base text-Grey font-poppins font-medium mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. A omnis,
+                     iusto harum possimus non praesentium qui facere.</p>
+                </div>
+
+                <div class="mt-5 bg-lightBlue py-5 px-5 rounded-lg mr-5 border border-[#6BD4A5] flex">
+                    <div class="parent">
+                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
+                    </div>
+
+                    <div>
+                        <h6 class="text-lg text-white font-poppins font-medium mb-3">Contact on phone</h6>
+                        <p class="text-lg text-Grey font-poppins font-normal">+012-3456-7891</p>
+                        <p class="text-lg text-Grey font-poppins font-normal">+012-3456-7891</p>
+                    </div>
+                </div>
+
+                <div class="mt-5 bg-lightBlue py-5 px-5 rounded-lg mr-5 border border-[#6BD4A5] flex">
+                    <div class="parent">
+                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
+                    </div>
+
+                    <div>
+                        <h6 class="text-lg text-white font-poppins font-medium mb-3">Contact on phone</h6>
+                        <p class="text-lg text-Grey font-poppins font-normal">+012-3456-7891</p>
+                        <p class="text-lg text-Grey font-poppins font-normal">+012-3456-7891</p>
+                    </div>
+                </div>
+
+                <div class="mt-5 bg-lightBlue py-5 px-5 rounded-lg mr-5 border border-[#6BD4A5] flex">
+                    <div class="parent">
+                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
+                    </div>
+
+                    <div>
+                        <h6 class="text-lg text-white font-poppins font-medium mb-3">Contact on phone</h6>
+                        <p class="text-lg text-Grey font-poppins font-normal">+012-3456-7891</p>
+                        <p class="text-lg text-Grey font-poppins font-normal">+012-3456-7891</p>
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="form-wrapper w-3/5 px-5 bg-lightBlue">
+                <?php echo do_shortcode('[wpforms id="25" title="false"]') ?>
+            </div>
         </div>
     </div>
 </section>

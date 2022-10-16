@@ -16,3 +16,50 @@ Text Domain: tailpress
 .owl-carousel .owl-theme .owl-loaded .owl-drag {
     padding-top: 80px;
 }
+
+
+.about-inner ul li {
+    position: relative;
+}
+.about-inner ul li::before{
+    content: '';
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background-color: aqua;
+    left: 0;
+    top: 10px;
+    border-radius: 50px;
+}
+/* Menu */
+
+#primary-menu #menu-main-menu li:first-child::before,
+#primary-menu #menu-main-menu li:nth-child(2)::before,
+#primary-menu #menu-main-menu li:nth-child(3)::before,
+#primary-menu #menu-main-menu li:nth-child(4)::before,
+#primary-menu #menu-main-menu li:nth-child(5)::before,
+#primary-menu #menu-main-menu li:last-child:before {
+    font-size: 14px;
+    color: #6BD4A5;
+    left: -8px;
+    position: absolute;
+}
+#primary-menu #menu-main-menu li:first-child:before {
+    content: '01.';
+
+}
+#primary-menu #menu-main-menu li:nth-child(2)::before {
+    content: '02.';
+}
+#primary-menu #menu-main-menu li:nth-child(3)::before {
+    content: '03.';
+}
+#primary-menu #menu-main-menu li:nth-child(4)::before {
+    content: '04.';
+}
+#primary-menu #menu-main-menu li:nth-child(5)::before {
+    content: '05.';
+}
+#primary-menu #menu-main-menu li:last-child:before {
+    content: '05.';
+}

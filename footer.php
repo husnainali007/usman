@@ -68,7 +68,12 @@
 			}
 		}
 	});
+	scrollpup({
+		background: '#F00',
+		height: '20px'
+	});
 </script>
+
 <?php wp_footer(); ?>
 
 </body>
