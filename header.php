@@ -71,7 +71,7 @@
 				?>
 				
 				<div class="hm-btn">
-					<a href="#" class="text-black text-sm font-poppins bg-lightGreen inline-flex items-center justify-center rounded-lg font-medium w-[101px] h-[45px]">Hire Me</a>
+					<a href="#" class="text-sm font-poppins bg-lightGreen inline-flex items-center justify-center uppercase rounded-[5px] font-medium w-[101px] h-[45px] hover:bg-white text-black">Hire Me</a>
 				</div>
 
 			</div>

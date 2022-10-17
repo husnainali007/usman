@@ -10,6 +10,15 @@ License URI: https://github.com/jeffreyvr/tailpress/blob/master/LICENSE
 Text Domain: tailpress
 */
 
+:root {
+    --darkBlue: #0F172A;
+    --dBlue: #161F32;
+    --lightBliue: #0F172A;
+    --lightGreen: #72E2AE;
+    --Grey: #9798A7;
+    --lightGrey: #e5e7eb;
+}
+
 .owl-stage-outer {
     padding-top: 60px;
 }
@@ -61,5 +70,55 @@ Text Domain: tailpress
     content: '05.';
 }
 #primary-menu #menu-main-menu li:last-child:before {
-    content: '05.';
+    content: '06.';
+}
+
+/* form */
+.form-wrapper div.wpforms-container-full .wpforms-form input[type=text],
+.form-wrapper div.wpforms-container-full .wpforms-form input[type=email],
+.form-wrapper div.wpforms-container-full .wpforms-form textarea {
+    background-color: var(--dBlue);
+    border: 1px solid var(--lightGreen);
+    border-radius: 5px;
+}
+.form-wrapper div.wpforms-container-full .wpforms-form .wpforms-field-label {
+    color: #fff;
+    margin-bottom: 0.375rem;
+    display: block;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: 500;
+}
+.form-wrapper ::placeholder {
+    color: var(--Grey);
+}
+.form-wrapper ::placeholder:active {
+    color: var(--Grey);
+}
+.form-wrapper div.wpforms-container-full .wpforms-form button[type=submit] {
+    background-color: lightGreen;
+    border: 1px solid var(--Grey);
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline flex;
+    height: 46px;
+    width: 120px;
+}
+.form-wrapper div.wpforms-container-full .wpforms-form button[type=submit]:hover {
+    background-color: white;
+}
+
+/* skilla */
+.circle {
+    fill: none;
+    stroke: #72e2ae;
+    --tw-rotate: -90deg;
+    transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+.circlebg {
+    stroke: #72e2ae;
+    opacity: .2;
 }

@@ -28,8 +28,14 @@
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen mr-5"><i class="fa-brands fa-linkedin"></i></i></span>
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-dribbble"></i></i></span>
         </div>
-        <div>
-            <span><a class="text-[15px] text-white font-medium text-center block mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
+        <div class="parent">
+            <div class="icon-wrapper">
+                <a class="text-white text-center block" href="#"><i class="fas fa-arrow-down"></i></a>
+            </div>
+
+            <div class="text-wrapper">
+                <span><a class="text-[15px] text-white font-medium text-center block mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
+            </div>
         </div>
     </div>
 </section>
@@ -50,9 +56,9 @@
 
             <div class="col-2 about-inner">
 
-                <h3 class="font-radioCanada text-2xl font-bold text-white">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h3>
+                <h3 class="font-radioCanada text-[26px] font-bold text-white">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h3>
 
-                <ul class="mt-[30px]">
+                <ul class="mt-3">
                     <li class="text-lg pl-8 font-poppins text-Grey font-medium">First Name <span class="text-[15px] ml-[20px] text-Grey font-medium ">: Usman</span></li>
                     <li class="text-lg pl-8 font-poppins text-Grey font-medium">Last Name  <span class="text-[15px] ml-[21px] text-Grey font-medium">: Bieber</span></li>
                     <li class="text-lg pl-8 font-poppins text-Grey font-medium">Age        <span class="text-[15px] ml-[75px] text-Grey font-medium">: 27 years</span></li>
@@ -62,8 +68,8 @@
                     <li class="text-lg pl-8 font-poppins text-Grey font-medium">Freelance  <span class="text-[15px] ml-[30px] text-Grey font-medium">: Joseph</span></li>
                 </ul>
 
-                <div class="mt-[40px] ml-[20px]">
-                    <span class="h-[47px] w-[188px] border inline-flex items-center justify-center rounded-lg border-[#6BD4A5] hover:bg-lightGreen"><a href="#">Download Rusame</a></span>
+                <div class="mt-[40px]">
+                    <span class="h-[47px] w-[188px] border uppercase inline-flex items-center justify-center rounded-[5px] bg-lightGreen text-[14px] font-medium border-[#6BD4A5] hover:bg-white text-black"><a href="#">Download Rusame</a></span>
                 </div>
                 
             </div>
@@ -72,40 +78,39 @@
 </section>
 
 <!-- Skills sec -->
-<!-- 
-<div class="max-w-sm">
-<canvas id="myChart"></canvas>
-</div> -->
 
-<section class="skills-sec flex bg-[#0F172A] py-[128px]">
+<section class="skills-sec flex bg-lightBlue py-[128px]">
     <div class="max-w-1240 mx-auto">
     <h2 class="radiocanada text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
         <div class="my-skills flex">
             <div>
-                <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] ">
-                    <p class="font-poppins text-sm text-Grey font-normal">80%</p>
-                    <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
+                <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
+                    <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
+                    <span class="font-poppins text-lg text-Grey absolute -right-[-125px] -top-[-70px]">85%</span>
+                    <h4 class="text-lg text-white font-semibold mt-3">UX/UI Design</h4>
                 </div>
             </div>
 
             <div>
-                <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] mx-[30px]">
-                    <p class="font-poppins text-sm text-Grey font-normal">80%</p>
-                    <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
+                <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
+                    <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
+                    <span class="font-poppins text-lg text-Grey absolute -right-[-125px] -top-[-70px]">85%</span>
+                    <h4 class="text-lg text-white font-semibold mt-3">UX/UI Design</h4>
                 </div>
             </div>
 
             <div>
-                <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5] mr-[30px]">
-                    <p class="font-poppins text-sm text-Grey font-normal">80%</p>
-                    <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
+                <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
+                    <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
+                    <span class="font-poppins text-lg text-Grey absolute -right-[-125px] -top-[-70px]">85%</span>
+                    <h4 class="text-lg text-white font-semibold mt-3">UX/UI Design</h4>
                 </div>
             </div>
-
             <div>
-                <div class="bg-[#162033] py-[80px] px-[70px] border rounded-lg border-[#6BD4A5]">
-                    <p class="font-poppins text-sm text-Grey font-normal">80%</p>
-                    <h4 class="text-lg text-white font-semibold">UX/UI Design</h4>
+                <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
+                    <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
+                    <span class="font-poppins text-lg text-Grey absolute -right-[-125px] -top-[-70px]">85%</span>
+                    <h4 class="text-lg text-white font-semibold mt-3">UX/UI Design</h4>
                 </div>
             </div>
         </div>
@@ -151,7 +156,7 @@
 
         <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
             <div class="w-[20%]">
-                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
+                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-90px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
             <h3 class="text-[22px] font-medium text-white">David Chester</h3>
             <p class="text-[15px] text-Grey mt-[10px]">Client - Envato.com</p>
@@ -170,7 +175,7 @@
 
         <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
             <div class="w-[20%]">
-                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
+                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-90px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
             <h3 class="text-[22px] font-medium text-white">David Chester</h3>
             <p class="text-[15px] text-Grey mt-[5px]">Client - Envato.com</p>
@@ -189,7 +194,7 @@
 
         <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
             <div class="w-[20%]">
-                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
+                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-90px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
             <h3 class="text-[22px] font-medium text-white">David Chester</h3>
             <p class="text-[15px] text-Grey mt-[5px]">Client - Envato.com</p>
@@ -302,7 +307,7 @@
 <section class="bg-darkBlue">
     <div class="max-w-1240 mx-auto py-32">
         <div class="form-content flex justify-between items-center">
-            <div class="content-wrapper w-2/5">
+            <div class="content-wrapper w-[541px]">
                 <div>
                 <h3 class="text-white text-[22px] font-radioCanada font-semibold mb-3">Contact Information</h3>
                 <p class="text-text-base text-Grey font-poppins font-medium mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. A omnis,
@@ -347,7 +352,7 @@
                 
             </div>
 
-            <div class="form-wrapper w-3/5 px-5 bg-lightBlue">
+            <div class="form-wrapper w-[682px] px-7 border border-[#6BD4A5] rounded-lg bg-lightBlue ">
                 <?php echo do_shortcode('[wpforms id="25" title="false"]') ?>
             </div>
         </div>
