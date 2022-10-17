@@ -46,7 +46,7 @@
 
     <div class="max-w-1240 mx-auto">
         
-        <h2 class="font-radiocanada text-[46px] text-center font-bold text-white mb-20">About Me</h2>
+        <h2 class="font-radioCanada text-[46px] text-center font-bold text-white mb-20">About Me</h2>
         
         <div class="parent md:flex md:items-center">
             
@@ -69,7 +69,7 @@
                 </ul>
 
                 <div class="mt-[40px]">
-                    <span class="h-[47px] w-[188px] border uppercase inline-flex items-center justify-center rounded-[5px] bg-lightGreen text-[14px] font-medium border-[#6BD4A5] hover:bg-white text-black"><a href="#">Download Rusame</a></span>
+                    <span class="h-[47px] w-[188px] border uppercase inline-flex items-center justify-center rounded-[5px] bg-lightGreen text-[14px] font-medium border-[#6BD4A5] hover:bg-white text-black"><a href="#">Download Resume</a></span>
                 </div>
                 
             </div>
@@ -81,13 +81,13 @@
 
 <section class="skills-sec flex bg-lightBlue py-[128px]">
     <div class="max-w-1240 mx-auto">
-    <h2 class="radiocanada text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
+    <h2 class="font-radiocanada text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
         <div class="my-skills flex">
             <div>
                 <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
                     <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
                     <span class="font-poppins text-lg text-Grey absolute -right-[-125px] -top-[-70px]">85%</span>
-                    <h4 class="text-lg text-white font-semibold mt-3">UX/UI Design</h4>
+                    <h4 class="text-lg text-white font-semibold font-poppins mt-3">UX/UI Design</h4>
                 </div>
             </div>
 
@@ -95,7 +95,7 @@
                 <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
                     <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
                     <span class="font-poppins text-lg text-Grey absolute -right-[-125px] -top-[-70px]">85%</span>
-                    <h4 class="text-lg text-white font-semibold mt-3">UX/UI Design</h4>
+                    <h4 class="text-lg text-white font-semibold font-poppins mt-3">UX/UI Design</h4>
                 </div>
             </div>
 
@@ -103,14 +103,14 @@
                 <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
                     <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
                     <span class="font-poppins text-lg text-Grey absolute -right-[-125px] -top-[-70px]">85%</span>
-                    <h4 class="text-lg text-white font-semibold mt-3">UX/UI Design</h4>
+                    <h4 class="text-lg text-white font-semibold font-poppins mt-3">UX/UI Design</h4>
                 </div>
             </div>
             <div>
                 <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
                     <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
                     <span class="font-poppins text-lg text-Grey absolute -right-[-125px] -top-[-70px]">85%</span>
-                    <h4 class="text-lg text-white font-semibold mt-3">UX/UI Design</h4>
+                    <h4 class="text-lg text-white font-semibold font-poppins mt-3">UX/UI Design</h4>
                 </div>
             </div>
         </div>
@@ -121,7 +121,7 @@
 
 <section class="services-sec flex bg-darkBlue py-[128px]">  
     <div class="max-w-1240 mx-auto">
-        <h2 class="font-radiocanada text-[46px] text-center font-bold text-white mb-10">My Services</h2>
+        <h2 class="font-radioCanada text-[46px] text-center font-bold text-white mb-10">My Services</h2>
 
         <div class="services-content flex">
 
@@ -151,15 +151,15 @@
     
 <section class="slider-sec bg-[#162033] py-[128px]">
     <div class="max-w-1240 mx-auto">
-    <h2 class="text-[46px] text-center font-bold text-white mt-[10px]">Client Reviwes<span></h2>
+    <h2 class="text-[46px] text-center font-bold font-radioCanada text-white mt-[10px]">Client Reviwes<span></h2>
         <div class="owl-carousel owl-one">
 
         <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
             <div class="w-[20%]">
                 <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-90px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
-            <h3 class="text-[22px] font-medium text-white">David Chester</h3>
-            <p class="text-[15px] text-Grey mt-[10px]">Client - Envato.com</p>
+            <h3 class="text-[22px] font-medium font-radioCanada text-white">David Chester</h3>
+            <p class="text-[15px] font-poppins text-Grey mt-[10px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
                     <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
@@ -177,8 +177,8 @@
             <div class="w-[20%]">
                 <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-90px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
-            <h3 class="text-[22px] font-medium text-white">David Chester</h3>
-            <p class="text-[15px] text-Grey mt-[5px]">Client - Envato.com</p>
+            <h3 class="text-[22px] font-medium font-radioCanada text-white">David Chester</h3>
+            <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
                     <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
@@ -196,8 +196,8 @@
             <div class="w-[20%]">
                 <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-90px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
-            <h3 class="text-[22px] font-medium text-white">David Chester</h3>
-            <p class="text-[15px] text-Grey mt-[5px]">Client - Envato.com</p>
+            <h3 class="text-[22px] font-medium font-radioCanada text-white">David Chester</h3>
+            <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
                     <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
@@ -215,8 +215,8 @@
             <div class="w-[20%]">
                 <img class="border-[4px] rounded-full border-lightGreen mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
-            <h3 class="text-[22px] font-medium text-white">David Chester</h3>
-            <p class="text-[15px] text-Grey mt-[5px]">Client - Envato.com</p>
+            <h3 class="text-[22px] font-medium font-radioCanada text-white">David Chester</h3>
+            <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
                     <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
@@ -234,8 +234,8 @@
             <div class="w-[20%]">
                 <img class="border-[4px] rounded-full border-lightGreen mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
-            <h3 class="text-[22px] font-medium text-white">David Chester</h3>
-            <p class="text-[15px] text-Grey mt-[5px]">Client - Envato.com</p>
+            <h3 class="text-[22px] font-medium font-radioCanada text-white">David Chester</h3>
+            <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
                     <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
@@ -364,7 +364,7 @@
         <div class="content-wrapper">
             <div class="bar-1">
                 <h4 class="text-lg text-lightGreen font-medium">Javascript - <span>(85%)</span></h4>
-                <span class="bg-lightGreen"></span> 
+                <span class="bg-lightGreen inline-flex w-[610px] h-[16px]"></span> 
             </div>
         </div>
     </div>
