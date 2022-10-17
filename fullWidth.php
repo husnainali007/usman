@@ -359,6 +359,17 @@
     </div>
 </section>
 
+<section class="bg-lightBlue py-3">
+    <div class="max-w-1240 mx-auto">
+        <div class="content-wrapper">
+            <div class="bar-1">
+                <h4 class="text-lg text-lightGreen font-medium">Javascript - <span>(85%)</span></h4>
+                <span class="bg-lightGreen"></span> 
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 
