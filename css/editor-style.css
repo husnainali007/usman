@@ -68,36 +68,16 @@
   right: 25px
 }
 
-.z-20 {
-  z-index: 20
+.left-0 {
+  left: 0px
 }
 
-.z-50 {
-  z-index: 50
+.top-0 {
+  top: 0px
 }
 
 .z-0 {
   z-index: 0
-}
-
-.z-\[-10\] {
-  z-index: -10
-}
-
-.z-\[-1\] {
-  z-index: -1
-}
-
-.z-\[50\] {
-  z-index: 50
-}
-
-.z-\[1\] {
-  z-index: 1
-}
-
-.-z-50 {
-  z-index: -50
 }
 
 .z-10 {
@@ -106,10 +86,6 @@
 
 .m-8 {
   margin: 2rem
-}
-
-.m-7 {
-  margin: 1.75rem
 }
 
 .my-3 {
@@ -204,6 +180,18 @@
   margin-right: 1.75rem
 }
 
+.mb-3 {
+  margin-bottom: 0.75rem
+}
+
+.mt-5 {
+  margin-top: 1.25rem
+}
+
+.mb-5 {
+  margin-bottom: 1.25rem
+}
+
 .mb-10 {
   margin-bottom: 2.5rem
 }
@@ -232,14 +220,6 @@
   margin-top: 0.5rem
 }
 
-.mb-3 {
-  margin-bottom: 0.75rem
-}
-
-.mt-5 {
-  margin-top: 1.25rem
-}
-
 .mt-4 {
   margin-top: 1rem
 }
@@ -254,18 +234,6 @@
 
 .mb-12 {
   margin-bottom: 3rem
-}
-
-.ml-5 {
-  margin-left: 1.25rem
-}
-
-.mr-\[20px\] {
-  margin-right: 20px
-}
-
-.mb-5 {
-  margin-bottom: 1.25rem
 }
 
 .block {
@@ -300,12 +268,16 @@
   height: 47px
 }
 
-.h-16 {
-  height: 4rem
-}
-
 .h-\[16px\] {
   height: 16px
+}
+
+.h-20 {
+  height: 5rem
+}
+
+.h-16 {
+  height: 4rem
 }
 
 .h-6 {
@@ -314,6 +286,18 @@
 
 .h-\[45px\] {
   height: 45px
+}
+
+.h-1\.5 {
+  height: 0.375rem
+}
+
+.h-full {
+  height: 100%
+}
+
+.h-\[3px\] {
+  height: 3px
 }
 
 .min-h-screen {
@@ -336,6 +320,18 @@
   width: 188px
 }
 
+.w-\[610px\] {
+  width: 610px
+}
+
+.w-\[518px\] {
+  width: 518px
+}
+
+.w-20 {
+  width: 5rem
+}
+
 .w-\[20\%\] {
   width: 20%
 }
@@ -348,10 +344,6 @@
   width: 682px
 }
 
-.w-\[610px\] {
-  width: 610px
-}
-
 .w-6 {
   width: 1.5rem
 }
@@ -360,8 +352,16 @@
   width: 101px
 }
 
-.w-\[518px\] {
-  width: 518px
+.w-32 {
+  width: 8rem
+}
+
+.w-1\.5 {
+  width: 0.375rem
+}
+
+.w-1 {
+  width: 0.25rem
 }
 
 .max-w-sm {
@@ -524,6 +524,10 @@
 .bg-gray-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 246 / var(--tw-bg-opacity))
+}
+
+.bg-opacity-10 {
+  --tw-bg-opacity: 0.1
 }
 
 .p-4 {
@@ -696,11 +700,6 @@
   padding-bottom: 8rem
 }
 
-.py-\[128px\] {
-  padding-top: 128px;
-  padding-bottom: 128px
-}
-
 .py-\[20px\] {
   padding-top: 20px;
   padding-bottom: 20px
@@ -711,14 +710,19 @@
   padding-right: 85px
 }
 
-.py-\[40px\] {
-  padding-top: 40px;
-  padding-bottom: 40px
+.py-\[128px\] {
+  padding-top: 128px;
+  padding-bottom: 128px
 }
 
-.px-\[40px\] {
-  padding-left: 40px;
-  padding-right: 40px
+.py-5 {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem
+}
+
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem
 }
 
 .py-\[50px\] {
@@ -731,11 +735,6 @@
   padding-right: 30px
 }
 
-.py-5 {
-  padding-top: 1.25rem;
-  padding-bottom: 1.25rem
-}
-
 .px-5 {
   padding-left: 1.25rem;
   padding-right: 1.25rem
@@ -744,11 +743,6 @@
 .px-7 {
   padding-left: 1.75rem;
   padding-right: 1.75rem
-}
-
-.py-3 {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem
 }
 
 .py-4 {
@@ -821,6 +815,11 @@
   padding-bottom: 0.625rem
 }
 
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem
+}
+
 .px-3\.5 {
   padding-left: 0.875rem;
   padding-right: 0.875rem
@@ -859,11 +858,6 @@
 .px-9 {
   padding-left: 2.25rem;
   padding-right: 2.25rem
-}
-
-.px-10 {
-  padding-left: 2.5rem;
-  padding-right: 2.5rem
 }
 
 .py-10 {
@@ -1055,6 +1049,18 @@
   padding-left: 2rem
 }
 
+.pt-32 {
+  padding-top: 8rem
+}
+
+.pt-5 {
+  padding-top: 1.25rem
+}
+
+.pb-32 {
+  padding-bottom: 8rem
+}
+
 .pl-4 {
   padding-left: 1rem
 }
@@ -1213,10 +1219,6 @@
 
 .pb-4 {
   padding-bottom: 1rem
-}
-
-.pt-5 {
-  padding-top: 1.25rem
 }
 
 .pr-5 {
@@ -1419,16 +1421,8 @@
   padding-left: 7rem
 }
 
-.pt-32 {
-  padding-top: 8rem
-}
-
 .pr-32 {
   padding-right: 8rem
-}
-
-.pb-32 {
-  padding-bottom: 8rem
 }
 
 .pl-32 {
@@ -1666,10 +1660,6 @@
   font-size: 14px
 }
 
-.text-\[25px\] {
-  font-size: 25px
-}
-
 .text-\[22px\] {
   font-size: 22px
 }
@@ -1799,9 +1789,9 @@
   color: rgb(107 212 165 / var(--tw-text-opacity))
 }
 
-.text-yellow-600 {
+.text-Yellow {
   --tw-text-opacity: 1;
-  color: rgb(202 138 4 / var(--tw-text-opacity))
+  color: rgb(255 210 51 / var(--tw-text-opacity))
 }
 
 .text-gray-900 {
@@ -1834,24 +1824,16 @@
   -moz-osx-font-smoothing: grayscale
 }
 
-.opacity-5 {
-  opacity: 0.05
-}
-
-.opacity-10 {
-  opacity: 0.1
-}
-
-.opacity-20 {
-  opacity: 0.2
+.opacity-40 {
+  opacity: 0.4
 }
 
 .opacity-30 {
   opacity: 0.3
 }
 
-.opacity-40 {
-  opacity: 0.4
+.opacity-20 {
+  opacity: 0.2
 }
 
 .alignfull {

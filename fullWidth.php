@@ -18,6 +18,9 @@
                 <img class="border-[5px] rounded-full border-[#6BD4A5]" src="wp-content/uploads/2022/10/usman-1.jpg" alt="usman1">
             </div>
             <h1 class="font-radioCanada text-[46px] text-center font-bold text-white mt-[10px]">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h1>
+            <div class="bg-lightGreen inline-flex h-1.5 w-32 rounded-full relative opacity-20 text-center">
+                <span class="absolute left-0 top-0 inline-block h-full w-1.5 animate-lefttoright rounded-full bg-lightGreen"></span>
+            </div>
             <p class="font-poppins text-[18px] text-center font-medium text-[#BFBECB] max-w-[70%] mx-auto mt-[30px]">I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
         </div>
 
@@ -74,9 +77,9 @@
 
 <!-- Skills sec -->
 
-<section class="skills-sec flex bg-lightBlue py-[128px]">
+<section class="skills-sec flex bg-lightBlue pb-5">
     <div class="max-w-1240 mx-auto">
-    <h2 class="font-radiocanada text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
+    <h2 class="font-radioCanada text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
         <div class="my-skills flex">
             <div>
                 <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
@@ -112,7 +115,7 @@
     </div>
 </section>
 
-<section class="bg-lightBlue py-3">
+<section class="bg-lightBlue pt-5">
     <div class="max-w-1240 mx-auto">
         <div class="parent flex">
 
@@ -126,7 +129,7 @@
                 </div>
 
                 <div class="bar-wrapper">
-                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Node Js  - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
                 <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
@@ -134,7 +137,7 @@
                 </div>
 
                 <div class="bar-wrapper">
-                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">React Js - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
                 <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
@@ -142,7 +145,7 @@
                 </div>
 
                 <div class="bar-wrapper">
-                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">React Native - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
                 <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
@@ -152,7 +155,7 @@
 
             <div class="content-wrapper2">
                 <div class="bar-wrapper">
-                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Html & Css - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
                 <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
@@ -160,7 +163,7 @@
                 </div>
 
                 <div class="bar-wrapper">
-                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Photoshop  - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
                 <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
@@ -168,7 +171,7 @@
                 </div>
 
                 <div class="bar-wrapper">
-                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Illustrator - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
                 <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
@@ -176,7 +179,7 @@
                 </div>
 
                 <div class="bar-wrapper">
-                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Figma - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
                 <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
@@ -197,21 +200,23 @@
 
         <div class="services-content flex">
 
-            <div class="box-1 bg-lightBlue py-[40px] px-[40px] border-[1px] rounded-lg border-[#6BD4A5]">
-                <span class="text-lightGreen"><i class="far fa-leaf"></i></span>
-                <h4 class="font-poppins text-[25px] text-white font-semibold">UX/UI Design</h4>
+            <div class="box-1 bg-lightBlue py-5 px-10 border-[1px] rounded-lg border-[#6BD4A5]">
+                <span class="text-lightGreen inline-flex mb-3 w-20 h-20 justify-center items-center bg-opacity-10 rounded-full bg-lightGreen "><i class="fab fa-envira"></i></span>
+                <h4 class="text-lg text-white font-radioCanada font-medium">UX/UI Design</h4>
                 <p class="text-[15px] text-Grey font-medium max-w-[300px] mt-[10px]">Working with Bieber is very good experience for me. He’s a good person.
                         If I need developer in future, I’ll definately hire him.</p>
             </div>
 
-            <div class="box-1 bg-lightBlue py-[40px] px-[40px] border-[1px] rounded-lg border-[#6BD4A5] mx-[30px]">
-                <h4 class="font-poppins text-[25px] text-white font-semibold">UX/UI Design</h4>
+            <div class="box-1 bg-lightBlue py-5 px-10 border-[1px] rounded-lg border-[#6BD4A5] mx-[30px]">
+                <span class="text-lightGreen inline-flex mb-3 w-20 h-20 justify-center items-center bg-opacity-10 rounded-full bg-lightGreen "><i class="fab fa-envira"></i></span>
+                <h4 class="text-lg text-white font-radioCanada font-medium">UX/UI Design</h4>
                 <p class="text-[15px] text-Grey font-medium max-w-[300px] mt-[10px]">Working with Bieber is very good experience for me. He’s a good person.
                         If I need developer in future, I’ll definately hire him.</p>
             </div>
 
-            <div class="box-1 bg-lightBlue py-[40px] px-[40px] border-[1px] rounded-lg border-[#6BD4A5]">
-                <h4 class="font-poppins text-[25px] text-white font-semibold">UX/UI Design</h4>
+            <div class="box-1 bg-lightBlue py-5 px-10 border-[1px] rounded-lg border-[#6BD4A5]">
+                <span class="text-lightGreen inline-flex mb-3 w-20 h-20 justify-center items-center bg-opacity-10 rounded-full bg-lightGreen "><i class="fas fa-tablet-alt"></i></span>
+                <h4 class="text-lg text-white font-radioCanada font-medium">UX/UI Design</h4>
                 <p class="text-[15px] text-Grey font-medium max-w-[300px] mt-[10px]">Working with Bieber is very good experience for me. He’s a good person.
                         If I need developer in future, I’ll definately hire him.</p>
             </div>
@@ -234,11 +239,11 @@
             <p class="text-[15px] font-poppins text-Grey mt-[10px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
                 </div>
                 <span class="text-[13px] mt-[5px] text-white font-medium">Working with Bieber is very good experience for me. He’s a good person.
                      If I need developer in future, I’ll definately hire him.</span>
@@ -253,11 +258,11 @@
             <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
                 </div>
                 <span class="text-[13px] mt-[5px] text-white font-medium">Working with Bieber is very good experience for me. He’s a good person.
                      If I need developer in future, I’ll definately hire him.</span>
@@ -272,11 +277,11 @@
             <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
                 </div>
                 <span class="text-[13px] mt-[5px] text-white font-medium">Working with Bieber is very good experience for me. He’s a good person.
                      If I need developer in future, I’ll definately hire him.</span>
@@ -291,11 +296,11 @@
             <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
                 </div>/
                 <span class="text-[13px] mt-[5px] text-white font-medium">Working with Bieber is very good experience for me. He’s a good person.
                      If I need developer in future, I’ll definately hire him.</span>
@@ -310,11 +315,11 @@
             <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
             <div class="review">
                 <div class="review-stars mt-[5px]">
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
-                    <span class="text-yellow-600"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
+                    <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
                 </div>
                 <span class="text-[13px] mt-[5px] text-white font-medium">Working with Bieber is very good experience for me. He’s a good person.
                      If I need developer in future, I’ll definately hire him.</span>
@@ -328,7 +333,7 @@
 <section class="blog-sec bg-darkBlue py-32">
     <div class="container max-w-1240 mx-auto">
         <div class="blog-content">
-            <h2 class="text-[46px] text-center font-bold text-white mt-[10px]">Latest Blog<span></h2>
+            <h2 class="text-[46px] text-center font-radioCanada font-bold text-white mt-[10px]">Latest Blog<span></h2>
             <div class="owl-carousel owl-two">
 
                 <div class="relative placeholder:slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
@@ -377,7 +382,8 @@
 </section>
 
 <section class="bg-darkBlue">
-    <div class="max-w-1240 mx-auto py-32">
+    <div class="max-w-1240 mx-auto pb-32">
+      <h2 class="font-radioCanada text-[46px] text-center font-bold text-white mb-10">Contact US</h2>
         <div class="form-content flex justify-between items-center">
             <div class="content-wrapper w-[541px]">
                 <div>

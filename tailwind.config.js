@@ -29,14 +29,16 @@ module.exports = {
                 'darkBlue'   : '#0B1224',
                 'Grey'       : '#9798A7',
                 'lightBlue'  : '#0F172A',
-                'babyGreen'  : '#203440'
+                'babyGreen'  : '#203440',
+                'Yellow'     : '#FFD233'
             },
 
             textColor: {
                 'lightGreen' : '#6BD4A5',
                 'darkBlue'   : '#0B1224',
                 'Grey'       : '#9798A7',
-                'lightBlue'  : '#0F172A'
+                'lightBlue'  : '#0F172A',
+                'Yellow'     : '#FFD233'
             },
 
             Colors: {
@@ -44,7 +46,8 @@ module.exports = {
                 'darkBlue'   : '#0B1224',
                 'Grey'       : '#9798A7',
                 'lightBlue'  : '#0F172A',
-                'babyGreen'  : '#203440'
+                'babyGreen'  : '#203440',
+                'Yellow'     : '#FFD233'
             },
 
             borderColors: {
@@ -52,7 +55,8 @@ module.exports = {
                 'darkBlue'   : '#0B1224',
                 'Grey'       : '#9798A7',
                 'lightBlue'  : '#0F172A',
-                'lightGrey'  : '#e5e7eb'
+                'lightGrey'  : '#e5e7eb',
+                'Yellow'     : '#FFD233'
             },
 
             padding: {
