@@ -112,6 +112,83 @@
     </div>
 </section>
 
+<section class="bg-lightBlue py-3">
+    <div class="max-w-1240 mx-auto">
+        <div class="parent flex">
+
+            <div class="content-wrapper mr-7">
+                <div class="bar-wrapper">
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                </div>
+
+                <div class="bar-1 bg-lightGreen opacity-40 z-0 relative inline-flex w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen inline-flex z-10 relative w-[518px] h-[16px] rounded-full"></span> 
+                </div>
+
+                <div class="bar-wrapper">
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                </div>
+
+                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                </div>
+
+                <div class="bar-wrapper">
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                </div>
+
+                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                </div>
+
+                <div class="bar-wrapper">
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                </div>
+
+                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                </div>
+            </div>
+
+            <div class="content-wrapper2">
+                <div class="bar-wrapper">
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                </div>
+
+                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                </div>
+
+                <div class="bar-wrapper">
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                </div>
+
+                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                </div>
+
+                <div class="bar-wrapper">
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                </div>
+
+                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full mb-5"></span> 
+                </div>
+
+                <div class="bar-wrapper">
+                    <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
+                </div>
+
+                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
 <!-- services sec  -->
 
 <section class="services-sec flex bg-darkBlue py-[128px]">  
@@ -354,16 +431,6 @@
     </div>
 </section>
 
-<section class="bg-lightBlue py-3">
-    <div class="max-w-1240 mx-auto">
-        <div class="content-wrapper">
-            <div class="bar-1">
-                <h4 class="text-lg text-lightGreen font-medium">Javascript - <span>(85%)</span></h4>
-                <span class="bg-lightGreen inline-flex w-[610px] h-[16px]"></span> 
-            </div>
-        </div>
-    </div>
-</section>
 
 
 
