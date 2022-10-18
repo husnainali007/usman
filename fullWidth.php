@@ -31,9 +31,13 @@
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen mr-5"><i class="fa-brands fa-linkedin"></i></i></span>
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-dribbble"></i></i></span>
         </div>
-        <div class="parent flex items-center justify-center">
-            <span><a class="text-white text-center block" href="#"><i class="fas fa-arrow-down"></i></a></span>
-            <span><a class="text-[15px] text-white font-medium text-center block mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
+        <div class="parent flex">
+            <div class="1">
+                <span><a class="text-white text-center block" href="#"><i class="fas fa-arrow-down"></i></a></span>
+            </div>
+            <div class="2">
+               <span><a class="text-[15px] text-white font-medium text-center block mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
+            </div>
         </div>
     </div>
 </section>
@@ -115,41 +119,41 @@
     </div>
 </section>
 
-<section class="bg-lightBlue pt-5">
+<section class="bg-lightBlue pt-5 relative z-0">
     <div class="max-w-1240 mx-auto">
         <div class="parent flex">
 
-            <div class="content-wrapper mr-7">
+            <div class="content-wrapper mr-7 relative z-0">
                 <div class="bar-wrapper">
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen opacity-40 z-0 relative inline-flex w-[610px] h-[16px] rounded-full">
-                    <span class="bg-lightGreen inline-flex z-10 relative w-[518px] h-[16px] rounded-full"></span> 
+                <div class="bar-1 bg-lightGreen relative z-10 w-[610px] h-[16px] rounded-full">
+                    <span class="bg-red-600 block absolute z-50 -top-[20px] w-[518px] h-[16px] rounded-full"></span>
                 </div>
 
                 <div class="bar-wrapper">
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Node Js  - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
-                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen relative w-[518px] h-[16px] rounded-full"></span> 
                 </div>
 
                 <div class="bar-wrapper">
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">React Js - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
-                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen relative w-[518px] h-[16px] rounded-full"></span> 
                 </div>
 
                 <div class="bar-wrapper">
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">React Native - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
-                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen relative w-[518px] h-[16px] rounded-full"></span> 
                 </div>
             </div>
 
@@ -158,32 +162,32 @@
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Html & Css - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
-                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen relative w-[518px] h-[16px] rounded-full"></span> 
                 </div>
 
                 <div class="bar-wrapper">
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Photoshop  - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
-                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen relative w-[518px] h-[16px] rounded-full"></span> 
                 </div>
 
                 <div class="bar-wrapper">
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Illustrator - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
-                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full mb-5"></span> 
+                <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen relative w-[518px] h-[16px] rounded-full mb-5"></span> 
                 </div>
 
                 <div class="bar-wrapper">
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Figma - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen opacity-40 relative inline-flex w-[610px] h-[16px] rounded-full">
-                    <span class="bg-lightGreen inline-flex relative w-[518px] h-[16px] rounded-full"></span> 
+                <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
+                    <span class="bg-lightGreen relative w-[518px] h-[16px] rounded-full"></span> 
                 </div>
             </div>
 
@@ -394,7 +398,7 @@
 
                 <div class="mt-5 bg-lightBlue py-5 px-5 rounded-lg mr-5 border border-[#6BD4A5] flex">
                     <div class="parent">
-                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
+                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen mr-4 text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
                     </div>
 
                     <div>
@@ -406,7 +410,7 @@
 
                 <div class="mt-5 bg-lightBlue py-5 px-5 rounded-lg mr-5 border border-[#6BD4A5] flex">
                     <div class="parent">
-                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
+                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen mr-4 text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
                     </div>
 
                     <div>
@@ -418,7 +422,7 @@
 
                 <div class="mt-5 bg-lightBlue py-5 px-5 rounded-lg mr-5 border border-[#6BD4A5] flex">
                     <div class="parent">
-                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
+                        <span class="inline-flex w-16 h-16 rounded-full bg-babyGreen mr-4 text-lightGreen items-center justify-center" href="#"><i class="fa-solid fa-phone"></i></span>
                     </div>
 
                     <div>
