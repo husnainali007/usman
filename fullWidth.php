@@ -19,7 +19,7 @@
             </div>
             <h1 class="font-radioCanada text-[46px] text-center font-bold text-white mt-[10px]">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h1>
             <div class="bg-lightGreen inline-flex h-1.5 w-32 rounded-full relative opacity-20 text-center">
-                <span class="absolute left-0 top-0 inline-block h-full w-1.5 animate-lefttoright rounded-full bg-lightGreen"></span>
+                <span class="absolute left-0 top-1 inline-block h-full w-1.5 animate-lefttoright rounded-full bg-lightGreen"></span>
             </div>
             <p class="font-poppins text-[18px] text-center font-medium text-[#BFBECB] max-w-[70%] mx-auto mt-[30px]">I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
         </div>
