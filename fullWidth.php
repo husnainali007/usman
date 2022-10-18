@@ -28,14 +28,9 @@
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen mr-5"><i class="fa-brands fa-linkedin"></i></i></span>
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-dribbble"></i></i></span>
         </div>
-        <div class="parent">
-            <div class="icon-wrapper">
-                <a class="text-white text-center block" href="#"><i class="fas fa-arrow-down"></i></a>
-            </div>
-
-            <div class="text-wrapper">
-                <span><a class="text-[15px] text-white font-medium text-center block mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
-            </div>
+        <div class="parent flex items-center justify-center">
+            <span><a class="text-white text-center block" href="#"><i class="fas fa-arrow-down"></i></a></span>
+            <span><a class="text-[15px] text-white font-medium text-center block mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
         </div>
     </div>
 </section>
