@@ -33,10 +33,10 @@
         </div>
         <div class="parent flex">
             <div class="1">
-                <span><a class="text-white text-center block" href="#"><i class="fas fa-arrow-down"></i></a></span>
+                <a class="text-white text-center block hover:text-lightGreen" href="#"><i class="fas fa-arrow-down"></i></a>
             </div>
-            <div class="2">
-               <span><a class="text-[15px] text-white font-medium text-center block mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
+            <div class="text-center">
+               <span class="text-center"><a class="text-[15px] text-white font-medium text-center ml-1 mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
             </div>
         </div>
     </div>
@@ -228,34 +228,57 @@
     </div>
 </section>
 
-    <!-- My Rsm sec -->
+    <!-- My Resume sec -->
 
-<section class="bg-lightBlue py-32">
+<section class="bg-lightBlue py-32 relative">
     <div class="max-w-1240 mx-auto">
-        <h2 class="text-[46px] text-center font-bold font-radioCanada text-white mt-[10px]">MY RESUME<span></h2>
-        <span class="absolute left-0 top-0 inline-block h-full w-1.5 animate-lefttoright rounded-full bg-lightGreen"></span>
-        
-        <div class="content-wrapper">
-            <div class="education">
-                <h3 class="text-[22px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
-            </div>
 
-            <div class="working">
-                <h3 class=""></h3>
-            <div class="timeline-wrap" style="opacity: 1; transform: none;">
-                <div class="relative block rounded-full border-white">
-                    <span class="timeline-year absolute top-0 left-12 mt-7 mr-12 rounded-full bg-lightGreen bg-opacity-20 p-1 text-center text-sm">2008 - 2010</span>
-                    <div class="timeline-right relative border-l-4 border-white border-opacity-20 pt-16 pl-12 md:pt-6"><span class="absolute -left-0.5 top-0 mt-1 h-full w-0 rounded-full bg-white bg-opacity-20">
-                        <span class="absolute left-0 top-6 z-10 inline-block h-6 w-6 -translate-x-1/2 transform rounded-full border-4 border-white border-opacity-20 bg-grey"></span>
-                        <span class="absolute left-0 right-full top-6 -z-10 mt-2.5 h-1 w-8 translate-x-0 transform rounded-full bg-white bg-opacity-20 md:left-1/2 md:w-20 md:-translate-x-1/2"></span></span><h5 class="mb-0 text-primary">Higher School Graduation</h5>
-                        <p class="mb-2 text-heading">Abc College.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.</p>
+        <h2 class="text-[46px] text-center relative font-bold font-radioCanada text-white mb-10">MY RESUME</h2>
+        <div class="parent">
+            <div class="content-wrapper">
+                <div>  
+                    <h3 class="text-[22px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
+                    <span class="text-lightGreen absolute top-[240px] left-[20px]"><i class="fas fa-briefcase"></i></span>
+                </div>
+
+                <div class="education ml-48 mt-6 relative">
+
+                    <span class="text-sm absolute top-[2px] -left-[120px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+                    <div class="box-1">
+                        <h4 class="text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                            Sit viverra donec in ornare euismod.</p>
                     </div>
+
+                    <div class="education mt-6 relative">
+
+                    <span class="text-sm absolute top-[2px] -left-[120px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+                    <div class="box-1">
+                        <h4 class="text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                            Sit viverra donec in ornare euismod.</p>
+                    </div>
+
+                    <div class="education mt-6 relative">
+
+                    <span class="text-sm absolute top-[2px] -left-[120px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+                    <div class="box-1">
+                        <h4 class="text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                            Sit viverra donec in ornare euismod.</p>
+                    </div>
+            
                 </div>
             </div>
-            </div>
-        </div>
 
+            
+        </div>
     </div>
 </section>
 
@@ -372,42 +395,69 @@
             <div class="owl-carousel owl-two">
 
                 <div class="relative placeholder:slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
-                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
-                    <div class="c-date absolute top-[20px] right-[25px]">
-                        <span class="text-white">01</span>
+                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                        <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
+                        <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
+                        <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
                     </div>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
-                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
+                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                        <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
+                        <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
+                        <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
+                    </div>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
-                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
+                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                        <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
+                        <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
+                        <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
+                    </div>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
-                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
+                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                        <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
+                        <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
+                        <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
+                    </div>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
-                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
+                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                        <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
+                        <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
+                        <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
+                    </div>
                 </div>
                 
                 <div class="slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
-                    <img class="mb-2" src="wp-content/uploads/2022/10/blog-image-4.jpg" alt="">
+                    <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
+                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                        <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
+                        <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
+                        <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
+                    </div>
                 </div>
                 
             </div>
