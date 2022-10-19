@@ -35,7 +35,7 @@
             <div class="1">
                 <a class="text-white text-center block hover:text-lightGreen" href="#"><i class="fas fa-arrow-down"></i></a>
             </div>
-            <div class="text-cente">
+            <div class="text-center">
                <span class="text-center"><a class="text-[15px] text-white font-medium text-center ml-1 mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
             </div>
         </div>
