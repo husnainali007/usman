@@ -129,7 +129,7 @@
                 </div>
 
                 <div class="bar-1 bg-lightGreen relative z-10 w-[610px] h-[16px] rounded-full">
-                    <span class="bg-red-600 block absolute z-50 -top-[20px] w-[518px] h-[16px] rounded-full"></span>
+                    <span class="bg-red block absolute z-50 w-[518px] h-[16px] rounded-full"></span>
                 </div>
 
                 <div class="bar-wrapper">
@@ -225,6 +225,37 @@
                         If I need developer in future, I’ll definately hire him.</p>
             </div>
         </div>
+    </div>
+</section>
+
+    <!-- My Rsm sec -->
+
+<section class="bg-lightBlue py-32">
+    <div class="max-w-1240 mx-auto">
+        <h2 class="text-[46px] text-center font-bold font-radioCanada text-white mt-[10px]">MY RESUME<span></h2>
+        <span class="absolute left-0 top-0 inline-block h-full w-1.5 animate-lefttoright rounded-full bg-lightGreen"></span>
+        
+        <div class="content-wrapper">
+            <div class="education">
+                <h3 class="text-[22px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
+            </div>
+
+            <div class="working">
+                <h3 class=""></h3>
+            <div class="timeline-wrap" style="opacity: 1; transform: none;">
+                <div class="relative block rounded-full border-white">
+                    <span class="timeline-year absolute top-0 left-12 mt-7 mr-12 rounded-full bg-lightGreen bg-opacity-20 p-1 text-center text-sm">2008 - 2010</span>
+                    <div class="timeline-right relative border-l-4 border-white border-opacity-20 pt-16 pl-12 md:pt-6"><span class="absolute -left-0.5 top-0 mt-1 h-full w-0 rounded-full bg-white bg-opacity-20">
+                        <span class="absolute left-0 top-6 z-10 inline-block h-6 w-6 -translate-x-1/2 transform rounded-full border-4 border-white border-opacity-20 bg-grey"></span>
+                        <span class="absolute left-0 right-full top-6 -z-10 mt-2.5 h-1 w-8 translate-x-0 transform rounded-full bg-white bg-opacity-20 md:left-1/2 md:w-20 md:-translate-x-1/2"></span></span><h5 class="mb-0 text-primary">Higher School Graduation</h5>
+                        <p class="mb-2 text-heading">Abc College.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id. Sit viverra donec in ornare euismod.</p>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+
     </div>
 </section>
 
