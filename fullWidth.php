@@ -18,10 +18,7 @@
                 <img class="border-[5px] rounded-full border-[#6BD4A5]" src="wp-content/uploads/2022/10/usman-1.jpg" alt="usman1">
             </div>
             <h1 class="font-radioCanada text-[46px] text-center font-bold text-white mt-[10px]">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h1>
-            <div class="bg-lightGreen inline-flex h-1.5 w-32 rounded-full relative opacity-20 text-center">
-                <span class="absolute left-0 top-0 inline-block h-full w-1.5 animate-lefttoright rounded-full bg-lightGreen"></span>
-            </div>
-            <p class="font-poppins text-[18px] text-center font-medium text-[#BFBECB] max-w-[70%] mx-auto mt-[30px]">I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
+            <p class="font-poppins text-[18px] text-center font-medium text-[#BFBECB] max-w-[70%] mx-auto mt-[0px]">I am a frontend web developer. I can provide clean code and pixel perfect design. I also make website more & more interactive with web animations.</p>
         </div>
 
         <div class="social-icon text-center mt-[40px]">
@@ -49,7 +46,9 @@
     <div class="max-w-1240 mx-auto">
         
         <h2 class="font-radioCanada text-[46px] text-center font-bold text-white mb-20">About Me</h2>
-        
+        <div class="bg-lightGreen inline-flex h-1.5 w-32 rounded-full relative opacity-20 text-center">
+                <span class="absolute left-0 top-0 inline-block h-full w-1.5 animate-lefttoright rounded-full bg-lightGreen"></span>
+            </div>
         <div class="parent md:flex md:items-center">
             
             <div class="col-1 border-8 border-[#6BD4A5] rounded-lg max-w-[590px] mr-8">
@@ -128,8 +127,8 @@
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
-                <div class="bar-1 bg-lightGreen relative z-10 w-[610px] h-[16px] rounded-full">
-                    <span class="bg-red block absolute z-50 w-[518px] h-[16px] rounded-full"></span>
+                <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
+                    <span class="bg-red-400 block w-[518px] h-[16px] rounded-full"></span>
                 </div>
 
                 <div class="bar-wrapper">
@@ -198,7 +197,7 @@
 
 <!-- services sec  -->
 
-<section class="services-sec flex bg-darkBlue py-[128px]">  
+<section class="services-sec flex bg-darkBlue py-[12px]">  
     <div class="max-w-1240 mx-auto">
         <h2 class="font-radioCanada text-[46px] text-center font-bold text-white mb-10">My Services</h2>
 

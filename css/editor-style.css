@@ -288,6 +288,14 @@
   margin-left: 0.25rem
 }
 
+.mt-\[20px\] {
+  margin-top: 20px
+}
+
+.mt-\[0px\] {
+  margin-top: 0px
+}
+
 .block {
   display: block
 }
