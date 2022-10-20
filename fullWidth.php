@@ -122,13 +122,13 @@
     <div class="max-w-1240 mx-auto">
         <div class="parent flex">
 
-            <div class="content-wrapper mr-7 relative z-0">
+            <div class="circle content-wrapper mr-7 relative">
                 <div class="bar-wrapper">
                     <h4 class="text-lg text-white font-radioCanada font-medium mb-3 mt-5">Javascript - <span class="text-lightGreen text-lg font-medium font-radioCanada">(85%)</span></h4>
                 </div>
 
                 <div class="bar-1 bg-lightGreen relative w-[610px] h-[16px] rounded-full">
-                    <span class="bg-red-400 block w-[518px] h-[16px] rounded-full"></span>
+                    <span class="bg-lightGreen block w-[518px] h-[16px] rounded-full"></span>
                 </div>
 
                 <div class="bar-wrapper">
@@ -345,9 +345,9 @@
             </div>
         </div>
 
-        <div class="slide-1 border-[1px] rounded-lg border-lightGreen py-[50px] px-[30px]">
+        <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
             <div class="w-[20%]">
-                <img class="border-[4px] rounded-full border-lightGreen mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
+                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-90px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
             <h3 class="text-[22px] font-medium font-radioCanada text-white">David Chester</h3>
             <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
@@ -358,15 +358,15 @@
                     <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
                     <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
                     <span class="text-Yellow"><i class="fa-solid fa-star"></i></span>
-                </div>/
+                </div>
                 <span class="text-[13px] mt-[5px] text-white font-medium">Working with Bieber is very good experience for me. He’s a good person.
                      If I need developer in future, I’ll definately hire him.</span>
             </div>
         </div>
 
-        <div class="slide-1 border-[1px] rounded-lg border-lightGreen py-[50px] px-[30px]">
+        <div class="slide-1 border-[1px] rounded-lg border-[#6BD4A5] py-[50px] px-[30px]">
             <div class="w-[20%]">
-                <img class="border-[4px] rounded-full border-lightGreen mt-[-50px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
+                <img class="border-[4px] rounded-full border-[#6BD4A5] mt-[-90px]" src="wp-content/uploads/2022/10/user-avatar-4-1.png" alt="client1">
             </div>
             <h3 class="text-[22px] font-medium font-radioCanada text-white">David Chester</h3>
             <p class="text-[15px] font-poppins text-Grey mt-[5px]">Client - Envato.com</p>
@@ -395,7 +395,7 @@
 
                 <div class="relative placeholder:slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
-                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
+                    <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
                     <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
                         <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
