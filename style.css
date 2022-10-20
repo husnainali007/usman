@@ -126,6 +126,9 @@ Text Domain: tailpress
     background-color: #6BD4A5;
     z-index: 1;
 }
-.placeholder {
-    color: Grey;
+.form-wrapper div.wpforms-container-full .wpforms-form input[type=text]::-ms-input-placeholder:active {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: var(--darkBlue);
+    color: white;
 }
