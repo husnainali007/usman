@@ -197,7 +197,7 @@
 
 <!-- services sec  -->
 
-<section class="services-sec flex bg-darkBlue py-[128px]">  
+<section class="services-sec flex bg-darkBlue py-32">  
     <div class="max-w-1240 mx-auto">
         <h2 class="font-radioCanada text-[46px] text-center font-bold text-white mb-10">My Services</h2>
 
