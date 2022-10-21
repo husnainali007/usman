@@ -132,3 +132,40 @@ Text Domain: tailpress
     background-color: var(--darkBlue);
     color: white;
 }
+.line-top {
+    position: relative;
+}
+.line-top::after {
+    content: '';
+    position: absolute;
+    height: 190px;
+    width: 4px;
+    background: var(--Grey);
+    top: 0;
+    right: -75px;
+    border-radius: 30px;
+}
+.line-left {
+    position: relative;
+}
+.line-left::after {
+    content: '';
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    background-color: var(--lightBliue);
+    border: 3px solid var(--Grey);
+    border-radius: 100px;
+    top: 10px;
+    left: -72px;
+}
+.line-left::before {
+    content: '';
+    position: absolute;
+    height: 4px;
+    width: 80px;
+    background-color: var(--Grey);
+    top: 20px;
+    left: -100px;
+    border-radius: 30px;
+}
