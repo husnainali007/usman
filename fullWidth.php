@@ -58,17 +58,17 @@
             <div class="col-2 about-inner">
 
                 <h3 class="font-radioCanada text-[26px] font-bold text-white">Hi, I am <span class="text-[#72E2AE]">Usman Mehar<span></h3>
-
-                <ul class="mt-3">
-                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">First Name <span class="text-[15px] ml-[20px] text-Grey font-medium ">: Usman</span></li>
-                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Last Name  <span class="text-[15px] ml-[21px] text-Grey font-medium">: Bieber</span></li>
-                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Age        <span class="text-[15px] ml-[75px] text-Grey font-medium">: 27 years</span></li>
-                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Nationality<span class="text-[15px] ml-[19px] text-Grey font-medium">: American</span></li>
-                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Languages  <span class="text-[15px] ml-[20px] text-Grey font-medium">: English, French</span></li>
-                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Address    <span class="text-[15px] ml-[43px] text-Grey font-medium">: 121 King Street, Melbourne, United States</span></li>
-                    <li class="text-lg pl-8 font-poppins text-Grey font-medium">Freelance  <span class="text-[15px] ml-[30px] text-Grey font-medium">: Joseph</span></li>
-                </ul>
-
+                <table>
+                    <ul class="mt-3">
+                        <li class="text-lg pl-8 font-poppins text-Grey font-medium">First Name <span class="text-[15px] ml-[20px] text-Grey font-medium ">: Usman</span></li>
+                        <li class="text-lg pl-8 font-poppins text-Grey font-medium">Last Name  <span class="text-[15px] ml-[21px] text-Grey font-medium">: Bieber</span></li>
+                        <li class="text-lg pl-8 font-poppins text-Grey font-medium">Age        <span class="text-[15px] ml-[75px] text-Grey font-medium">: 27 years</span></li>
+                        <li class="text-lg pl-8 font-poppins text-Grey font-medium">Nationality<span class="text-[15px] ml-[19px] text-Grey font-medium">: American</span></li>
+                        <li class="text-lg pl-8 font-poppins text-Grey font-medium">Languages  <span class="text-[15px] ml-[20px] text-Grey font-medium">: English, French</span></li>
+                        <li class="text-lg pl-8 font-poppins text-Grey font-medium">Address    <span class="text-[15px] ml-[43px] text-Grey font-medium">: 121 King Street, Melbourne, United States</span></li>
+                        <li class="text-lg pl-8 font-poppins text-Grey font-medium">Freelance  <span class="text-[15px] ml-[30px] text-Grey font-medium">: Joseph</span></li>
+                    </ul>
+                </table>
                 <div class="mt-[40px]">
                     <span class="h-[47px] w-[188px] border uppercase inline-flex items-center justify-center rounded-[5px] bg-lightGreen text-[14px] font-medium border-[#6BD4A5] hover:bg-white text-black"><a href="#">Download Resume</a></span>
                 </div>
