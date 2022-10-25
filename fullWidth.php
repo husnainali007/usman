@@ -233,50 +233,46 @@
     <div class="max-w-1240 mx-auto">
 
         <h2 class="text-[46px] text-center relative font-bold font-radioCanada text-white mb-10">MY RESUME</h2>
-        <div class="parent">
-            <div class="content-wrapper">
-                <div>  
-                    <h3 class="text-[22px] ml-[30px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
-                    <span class="text-lightGreen absolute top-[240px] left-[50px]"><i class="fas fa-briefcase"></i></span>
-                </div>
 
-                <div class="education pl-64 mt-6 relative">
+            <div class="parent">
 
+                <div class="content-wrapper">
+                        <h3 class="text-[22px] ml-[30px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
+                        <span class="text-lightGreen absolute top-[240px] left-[50px]"><i class="fas fa-briefcase"></i></span>
+                        
+                <div class="education mt-6 relative">
                     <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
                     <div class="box-1">
-                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
-                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
-                            Sit viverra donec in ornare euismod.</p>
-                    </div>
+                    <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                    <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                    <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                    consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                    Sit viverra donec in ornare euismod.</p>
+                </div>
 
-                    <div class="education mt-6 relative">
-
+                <div class="education mt-6 relative">
                     <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
                     <div class="box-2">
-                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
-                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
-                            Sit viverra donec in ornare euismod.</p>
-                    </div>
+                    <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                    <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                    <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                    consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                    Sit viverra donec in ornare euismod.</p>
+                </div>
 
-                    <div class="education mt-6 relative">
-
+                <div class="education mt-6 relative">
                     <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
                     <div class="box-3">
-                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
-                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
-                            consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
-                            Sit viverra donec in ornare euismod.</p>
-                    </div>
-            
+                    <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                    <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                    <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                    consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                    Sit viverra donec in ornare euismod.</p>
+                </div>
+
                 </div>
             </div>
 
-            
         </div>
     </div>
 </section>

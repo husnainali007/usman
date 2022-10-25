@@ -92,18 +92,6 @@
   right: 25px
 }
 
-.top-\[30px\] {
-  top: 30px
-}
-
-.left-\[0px\] {
-  left: 0px
-}
-
-.left-\[40px\] {
-  left: 40px
-}
-
 .z-0 {
   z-index: 0
 }
@@ -282,6 +270,10 @@
 
 .inline-flex {
   display: inline-flex
+}
+
+.table {
+  display: table
 }
 
 .hidden {
