@@ -29,11 +29,10 @@
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-dribbble"></i></i></span>
         </div>
         <div class="parent flex">
-            <div class="1">
-                <a class="text-white text-center block hover:text-lightGreen" href="#"><i class="fas fa-arrow-down"></i></a>
-            </div>
+
             <div class="text-center mx-auto">
                <span class="text-center"><a class="text-[15px] text-white font-medium text-center ml-1 mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
+               <a class="text-white text-center block hover:text-lightGreen" href="#"><i class="fas fa-arrow-down"></i></a>
             </div>
         </div>
     </div>
