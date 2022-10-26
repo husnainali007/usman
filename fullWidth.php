@@ -357,7 +357,7 @@
         </div>
         <div class="flex gap-7">
 
-            <div class="content-wrapper">
+            <div class="content-wrappe">
                     <div class="content">     
                         <div class="relative slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                             <img class="mb-2 h-[240px]" src="wp-content/uploads/2022/10/download.jpg" alt="">
