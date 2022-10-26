@@ -28,13 +28,14 @@
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen mr-5"><i class="fa-brands fa-linkedin"></i></i></span>
             <span class="text-white w-[40px] h-[40px] inline-flex items-center justify-center border rounded-lg hover:bg-lightGreen"><i class="fa-brands fa-dribbble"></i></i></span>
         </div>
-        <div class="parent flex">
 
-            <div class="text-center mx-auto">
-               <span class="text-center"><a class="text-[15px] text-white font-medium text-center ml-1 mt-6 hover:text-lightGreen" href="#about">Scrool Down</a></span>
-               <a class="text-white text-center block hover:text-lightGreen" href="#"><i class="fas fa-arrow-down"></i></a>
-            </div>
-        </div>
+        <a class="block text-center mt-8 cursor-pointer">
+            <span class="text-white text-center">
+                <i class="fas fa-arrow-down"></i>
+            </span>
+            <span class="text-[15px] text-white font-medium text-center ml-1 mt-6">Scrool Down</span>
+        </a>
+
     </div>
 </section>
 
@@ -82,7 +83,7 @@
 <section class="skills-sec flex bg-lightBlue pb-5">
     <div class="max-w-1240 mx-auto">
     <h2 class="font-radioCanada text-[46px] text-center font-bold text-white mb-[80px]">My Skills</h2>
-        <div class="my-skills flex">
+        <div class="my-skills md:flex">
             <div>
                 <div class="bg-[#162033] py-[20px] px-[85px] border rounded-lg border-[#6BD4A5] mr-7 text-center relative">
                     <svg class="circle" width="120" height="120" viewBox="0 0 120 120"><circle class="circlebg" cx="60" cy="60" r="54" pathLength="1" stroke-linecap="round" stroke-width="12"></circle><circle cx="60" cy="60" r="54" stroke-linecap="round" stroke-width="12" opacity="1" pathLength="1" stroke-dashoffset="0px" stroke-dasharray="0.85px 1px"></circle></svg>
@@ -119,7 +120,7 @@
 
 <section class="bg-lightBlue pt-5 relative z-0">
     <div class="max-w-1240 mx-auto">
-        <div class="parent flex">
+        <div class="parent md:flex">
 
             <div class="content-wrapper mr-7 relative">
                 <div class="bar-wrapper">
@@ -229,99 +230,196 @@
     <!-- My Resume sec -->
 
 <section class="bg-lightBlue py-32 relative">
-    <div class="max-w-1240 mx-auto">
+
+    <div class="max-w-1240 mx-auto">  <!-- start container -->
 
         <h2 class="text-[46px] text-center relative font-bold font-radioCanada text-white mb-10">MY RESUME</h2>
-            <div class="parent flex">
-                <div class="box-1">
 
-                    <div class="content-wrapper">
-                        <h3 class="text-[22px] ml-[30px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
-                        <span class="text-lightGreen absolute top-[240px] left-[50px]"><i class="fas fa-briefcase"></i></span>
+        <div class="flex justify-between">
 
-                    <div class="education mt-6 relative">
-                        <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
-                        <div class="box-1">
+            <div class="edu-exp w-1/2">
+
+                <div>
+                    <h3 class="text-[22px] ml-[30px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
+                    <span class="text-lightGreen absolute top-[240px] left-[50px]"><i class="fas fa-briefcase"></i></span>
+                </div>
+
+                <div class="education mt-6 relative pl-52">
+
+                    <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+
+                    <div class="box-1">
                         <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
                         <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                        <p class="text-md text-Grey font-poppins font-normal max-w-[80%]">Lorem ipsum dolor sit amet,
                         consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
                         Sit viverra donec in ornare euismod.</p>
                     </div>
+                    
+                </div>
 
-                    <div class="education mt-6 relative">
-                        <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
-                        <div class="box-2">
+                <div class="education mt-6 relative pl-52">
+
+                    <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+
+                    <div class="box-1">
                         <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
                         <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                        <p class="text-md text-Grey font-poppins font-normal max-w-[80%]">Lorem ipsum dolor sit amet,
                         consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
                         Sit viverra donec in ornare euismod.</p>
                     </div>
+                    
+                </div>
 
-                    <div class="education mt-6 relative">
-                        <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
-                        <div class="box-3">
+                <div class="education mt-6 relative pl-52">
+
+                    <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+
+                    <div class="box-1">
                         <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
                         <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
+                        <p class="text-md text-Grey font-poppins font-normal max-w-[80%]">Lorem ipsum dolor sit amet,
                         consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
                         Sit viverra donec in ornare euismod.</p>
                     </div>
-
-                    </div>
+                    
                 </div>
 
             </div>
 
-            <div class="box-1">
+            <div class="edu-exp w-1/2">
 
-                    <div class="content-wrapper">
-                            <h3 class="text-[22px] ml-[30px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
-                            <span class="text-lightGreen absolute top-[240px] left-[50px]"><i class="fas fa-briefcase"></i></span>
-
-                    <div class="education mt-6 relative">
-                        <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
-                        <div class="box-1">
-                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
-                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
-                        Sit viverra donec in ornare euismod.</p>
-                    </div>
-
-                    <div class="education mt-6 relative">
-                        <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
-                        <div class="box-2">
-                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
-                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
-                        Sit viverra donec in ornare euismod.</p>
-                    </div>
-
-                    <div class="education mt-6 relative">
-                        <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
-                        <div class="box-3">
-                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
-                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
-                        <p class="text-sm text-Grey font-poppins font-normal max-w-[40%]">Lorem ipsum dolor sit amet,
-                        consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
-                        Sit viverra donec in ornare euismod.</p>
-                    </div>
-
-                    </div>
+                <div>
+                    <h3 class="text-[22px] ml-[30px] text-white font-semibold font-radioCanada">Educational Qualification</h3>
+                    <span class="text-lightGreen absolute top-[240px] left-[50px]"><i class="fas fa-briefcase"></i></span>
                 </div>
+
+                <div class="education mt-6 relative pl-52">
+                    <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+                    <div class="box-1">
+                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                        <p class="text-md text-Grey font-poppins font-normal max-w-[80%]">Lorem ipsum dolor sit amet,
+                        consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                        Sit viverra donec in ornare euismod.</p>
+                    </div>
+
+                </div>
+
+                <div class="education mt-6 relative pl-52">
+                    <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+                    <div class="box-1">
+                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                        <p class="text-md text-Grey font-poppins font-normal max-w-[80%]">Lorem ipsum dolor sit amet,
+                        consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                        Sit viverra donec in ornare euismod.</p>
+                    </div>
+
+                </div>
+
+
+                <div class="education mt-6 relative pl-52">
+                    <span class="line-top text-sm absolute top-[2px] -left-[230px] text-Grey inline-flex px-3 bg-opacity-20 bg-lightGreen rounded-full">2008 - 2010</span>
+                    <div class="box-1">
+                        <h4 class="line-left text-lg text-lightGreen font-semibold font-radioCanada">Higher School Graduation</h4>
+                        <h5 class="text-md text-white font-normal font-radioCanada mt-2 mb-3">Punjab Collage.</h5>
+                        <p class="text-md text-Grey font-poppins font-normal max-w-[80%]">Lorem ipsum dolor sit amet,
+                        consectetur adipiscing elit. Sed consectetur donec gravida ullamcorper cum id.
+                        Sit viverra donec in ornare euismod.</p>
+                    </div>
+
+                </div>
+
 
             </div>
 
+        </div> 
+
+        </div>
+       
+    </div> <!-- end container -->
+
+</section>
+
+<!--recent works sec -->
+<section class="bg-lightBlue py-32">
+    <div class="max-w-1240 mx-auto">
+        <h2 class="text-[46px] text-center relative font-bold font-radioCanada text-white mb-10">MY Works</h2>
+
+        <div class="all-btn flex flex-wrap justify-center gap-4 mb-10">
+            <a class="inline-flex h-[40px] w-[70px] rounded-[4px] items-center justify-center text-md  text-lightGreen font-medium bg-opacity-20 font-poppins bg-lightGreen hover:text-lightBlue hover:bg-lightGreen " href="#">ALL</a>
+            <a class="inline-flex h-[40px] w-[130px] rounded-[4px] items-center justify-center text-md text-lightGreen font-medium bg-opacity-20 font-poppins bg-lightGreen hover:text-lightBlue hover:bg-lightGreen " href="#">UI/UX DESIGN</a>
+            <a class="inline-flex h-[40px] w-[120px] rounded-[4px] items-center justify-center text-md text-lightGreen font-medium bg-opacity-20 font-poppins bg-lightGreen hover:text-lightBlue hover:bg-lightGreen " href="#">HTML & CSS</a>
+            <a class="inline-flex h-[40px] w-[100px] rounded-[4px] items-center justify-center text-md text-lightGreen font-medium bg-opacity-20 font-poppins bg-lightGreen hover:text-lightBlue hover:bg-lightGreen " href="#">REACT JS</a>
+            <a class="inline-flex h-[40px] w-[100px] rounded-[4px] items-center justify-center text-md text-lightGreen font-medium bg-opacity-20 font-poppins bg-lightGreen hover:text-lightBlue hover:bg-lightGreen " href="#">NODE JS</a>
+        </div>
+        <div class="flex gap-7">
+
+            <div class="content-wrapper">
+                    <div class="content">     
+                        <div class="relative slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                            <img class="mb-2 h-[240px]" src="wp-content/uploads/2022/10/download.jpg" alt="">
+                            <a class="text-lg text-white mt-2.5 font-medium" href="#">Paint</a>
+                            <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Creative wall painting</p>
+                        </div>
+                    </div>
+
+                    <div class="content mt-[28px]">     
+                        <div class="relative slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                            <img class="mb-2 h-[240px]" src="wp-content/uploads/2022/10/download.jpg" alt="">
+                            <a class="text-lg text-white mt-2.5 font-medium" href="#">Paint</a>
+                            <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Creative wall painting</p>
+                        </div>
+                    </div>
+            </div>
+            
+            <div class="">
+                    <div class="content">     
+                        <div class="relative slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                            <img class="mb-2 h-[240px]" src="wp-content/uploads/2022/10/download.jpg" alt="">
+                            <a class="text-lg text-white mt-2.5 font-medium" href="#">Paint</a>
+                            <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Creative wall painting</p>
+                        </div>
+                    </div>
+
+                    <div class="content mt-[28px]">     
+                        <div class="relative slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                            <img class="mb-2 h-[240px]" src="wp-content/uploads/2022/10/download.jpg" alt="">
+                            <a class="text-lg text-white mt-2.5 font-medium" href="#">Paint</a>
+                            <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Creative wall painting</p>
+                        </div>
+                    </div>
+            </div>
+
+            <div class="">
+                    <div class="content">     
+                        <div class="relative slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                            <img class="mb-2 h-[240px]" src="wp-content/uploads/2022/10/download.jpg" alt="">
+                            <a class="text-lg text-white mt-2.5 font-medium" href="#">Paint</a>
+                            <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Creative wall painting</p>
+                        </div>
+                    </div>
+
+                    <div class="content mt-[28px]">     
+                        <div class="relative slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                            <img class="mb-2 h-[240px]" src="wp-content/uploads/2022/10/download.jpg" alt="">
+                            <a class="text-lg text-white mt-2.5 font-medium" href="#">Paint</a>
+                            <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Creative wall painting</p>
+                        </div>
+                    </div>
+            </div>
+            
+        </div>
+        <div class="btn text-center">
+            <a class="inline-flex h-[38px] w-[120px] rounded-[4px] items-center justify-center text-sm mt-10 text-center text-lightBlue font-semibold font-poppins bg-lightGreen hover:text-lightBlue hover:bg-white" href="#">LOAD MORE</a>
         </div>
     </div>
 </section>
-
     <!-- Slider Sec -->
     
-<section class="slider-sec bg-[#162033] py-[128px]">
+<section class="slider-sec bg-lightBlue py-10">
     <div class="max-w-1240 mx-auto">
     <h2 class="text-[46px] text-center font-bold font-radioCanada text-white mt-[10px]">Client Reviwes<span></h2>
         <div class="owl-carousel owl-one">
@@ -431,11 +529,11 @@
             <h2 class="text-[46px] text-center font-radioCanada font-bold text-white mt-[10px]">Latest Blog<span></h2>
             <div class="owl-carousel owl-two">
 
-                <div class="relative placeholder:slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
+                <div class="relative slide-1 bg-[#162033] py-5 px-5 border border-[#2E3748] rounded-lg">
                     <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-[#6BD4A5]" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
-                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                    <div class="c-date absolute top-[40px] right-[40px] py-1 px-4 rounded-[5px] bg-lightGreen">
                         <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
                         <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
                         <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
@@ -446,7 +544,7 @@
                     <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
-                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                    <div class="c-date absolute top-[40px] right-[40px] py-1 px-4 rounded-[5px] bg-lightGreen">
                         <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
                         <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
                         <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>

@@ -138,7 +138,7 @@ Text Domain: tailpress
 .line-top::after {
     content: '';
     position: absolute;
-    height: 190px;
+    height: 218px;
     width: 4px;
     background: var(--Grey);
     top: 0;
