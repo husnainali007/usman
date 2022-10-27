@@ -555,7 +555,7 @@
                     <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
-                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                    <div class="c-date absolute top-[40px] right-[40px] py-1 px-4 rounded-[5px] bg-lightGreen">
                         <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
                         <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
                         <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
@@ -566,7 +566,7 @@
                     <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
-                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                    <div class="c-date absolute top-[40px] right-[40px] py-1 px-4 rounded-[5px] bg-lightGreen">
                         <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
                         <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
                         <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
@@ -577,7 +577,7 @@
                     <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
-                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                    <div class="c-date absolute top-[40px] right-[40px] py-1 px-4 rounded-[5px] bg-lightGreen">
                         <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
                         <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
                         <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
@@ -588,7 +588,7 @@
                     <img class="mb-2 h-[210px]" src="wp-content/uploads/2022/10/blog-image-5.jpg" alt="">
                     <a class="text-lg text-white mt-2.5 font-semibold hover:text-lightGreen" href="#">Learn programming easy way</a>
                     <p class="text-1xl text-Grey font-medium hover:text-lightGreen">Trend</p>
-                    <div class="c-date absolute top-[20px] right-[25px] py-1 px-4 rounded-[5px] bg-lightGreen">
+                    <div class="c-date absolute top-[40px] right-[40px] py-1 px-4 rounded-[5px] bg-lightGreen">
                         <span class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">May</span>
                         <p class="text-darkBlue -mt-[6px] text-center text-lg font-normal font-poppins">01</p>
                         <h6 class="text-darkBlue -mt-[6px] text-center text-sm font-normal font-poppins">2022</h6>
